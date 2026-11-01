@@ -1,0 +1,25 @@
+{
+  "title": "Wolves",
+  "record_type": "team_historical_performance",
+  "source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "source": "EPL historical season records",
+  "seasons_included": [
+    "2003-04"
+  ],
+  "seasons_covered_count": 1,
+  "season_records": [
+    {
+      "season": "2003-04",
+      "rank": 20,
+      "played": 38,
+      "wins": 7,
+      "draws": 12,
+      "losses": 19,
+      "goals_for": 38,
+      "goals_against": 77,
+      "goal_difference": -39,
+      "points": 33
+    }
+  ],
+  "scope_note": "Only the seasons individually transcribed and included in this archive; not a full career history."
+}

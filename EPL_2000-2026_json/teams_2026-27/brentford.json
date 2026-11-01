@@ -1,0 +1,28 @@
+{
+  "title": "Brentford",
+  "url": "https://en.wikipedia.org/wiki/Brentford_F.C.",
+  "text": "Brentford은(는) 2026–27 잉글랜드 프리미어리그 참가 구단이다. 홈구장은 Brentford Community Stadium이며 소재지는 London이다. 감독은 Keith Andrews, 주장은 Nathan Collins이다. 2026년 10월 19일까지 7경기를 치러 2승 4무 1패, 승점 10점, 리그 6위를 기록했다.",
+  "source": "영어 위키백과",
+  "collected_at": "2026-10-21",
+  "record_type": "team",
+  "league": "Premier League",
+  "season": "2026-27",
+  "team_id": "brentford",
+  "city": "London",
+  "stadium": "Brentford Community Stadium",
+  "manager": "Keith Andrews",
+  "captain": "Nathan Collins",
+  "squad_as_of": "2026-08-28",
+  "season_stats_as_of": "2026-10-19",
+  "season_stats": {
+    "rank": 6,
+    "played": 7,
+    "wins": 2,
+    "draws": 4,
+    "losses": 1,
+    "goals_for": 13,
+    "goals_against": 8,
+    "goal_difference": 5,
+    "points": 10
+  }
+}

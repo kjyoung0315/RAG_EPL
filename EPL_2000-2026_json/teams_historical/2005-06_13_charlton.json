@@ -1,0 +1,22 @@
+{
+  "title": "Charlton",
+  "season": "2005-06",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=Charlton%202005-06%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "Charlton의 2005-06 잉글랜드 프리미어리그 최종 성적은 13위, 38경기 13승 8무 17패, 41득점 55실점, 승점 47점이다.",
+  "season_stats": {
+    "rank": 13,
+    "played": 38,
+    "wins": 13,
+    "draws": 8,
+    "losses": 17,
+    "goals_for": 41,
+    "goals_against": 55,
+    "goal_difference": -14,
+    "points": 47
+  },
+  "collected_at": "2026-10-21"
+}

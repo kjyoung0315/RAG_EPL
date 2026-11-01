@@ -1,0 +1,22 @@
+{
+  "title": "Bolton",
+  "season": "2004-05",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=Bolton%202004-05%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "Bolton의 2004-05 잉글랜드 프리미어리그 최종 성적은 6위, 38경기 16승 10무 12패, 49득점 44실점, 승점 58점이다.",
+  "season_stats": {
+    "rank": 6,
+    "played": 38,
+    "wins": 16,
+    "draws": 10,
+    "losses": 12,
+    "goals_for": 49,
+    "goals_against": 44,
+    "goal_difference": 5,
+    "points": 58
+  },
+  "collected_at": "2026-10-21"
+}

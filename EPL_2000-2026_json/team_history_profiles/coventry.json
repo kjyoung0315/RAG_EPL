@@ -1,0 +1,25 @@
+{
+  "title": "Coventry",
+  "record_type": "team_historical_performance",
+  "source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "source": "EPL historical season records",
+  "seasons_included": [
+    "2000-01"
+  ],
+  "seasons_covered_count": 1,
+  "season_records": [
+    {
+      "season": "2000-01",
+      "rank": 19,
+      "played": 38,
+      "wins": 8,
+      "draws": 10,
+      "losses": 20,
+      "goals_for": 36,
+      "goals_against": 63,
+      "goal_difference": -27,
+      "points": 34
+    }
+  ],
+  "scope_note": "Only the seasons individually transcribed and included in this archive; not a full career history."
+}

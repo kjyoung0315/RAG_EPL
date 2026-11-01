@@ -1,0 +1,22 @@
+{
+  "title": "West Brom",
+  "season": "2005-06",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=West%20Brom%202005-06%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "West Brom의 2005-06 잉글랜드 프리미어리그 최종 성적은 19위, 38경기 7승 9무 22패, 31득점 58실점, 승점 30점이다.",
+  "season_stats": {
+    "rank": 19,
+    "played": 38,
+    "wins": 7,
+    "draws": 9,
+    "losses": 22,
+    "goals_for": 31,
+    "goals_against": 58,
+    "goal_difference": -27,
+    "points": 30
+  },
+  "collected_at": "2026-10-21"
+}

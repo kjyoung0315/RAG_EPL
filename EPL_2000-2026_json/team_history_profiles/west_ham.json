@@ -1,0 +1,90 @@
+{
+  "title": "West Ham",
+  "record_type": "team_historical_performance",
+  "source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "source": "EPL historical season records",
+  "seasons_included": [
+    "2000-01",
+    "2001-02",
+    "2002-03",
+    "2005-06",
+    "2006-07",
+    "2007-08"
+  ],
+  "seasons_covered_count": 6,
+  "season_records": [
+    {
+      "season": "2000-01",
+      "rank": 15,
+      "played": 38,
+      "wins": 10,
+      "draws": 12,
+      "losses": 16,
+      "goals_for": 45,
+      "goals_against": 50,
+      "goal_difference": -5,
+      "points": 42
+    },
+    {
+      "season": "2001-02",
+      "rank": 7,
+      "played": 38,
+      "wins": 15,
+      "draws": 8,
+      "losses": 15,
+      "goals_for": 48,
+      "goals_against": 57,
+      "goal_difference": -9,
+      "points": 53
+    },
+    {
+      "season": "2002-03",
+      "rank": 18,
+      "played": 38,
+      "wins": 10,
+      "draws": 12,
+      "losses": 16,
+      "goals_for": 42,
+      "goals_against": 59,
+      "goal_difference": -17,
+      "points": 42
+    },
+    {
+      "season": "2005-06",
+      "rank": 9,
+      "played": 38,
+      "wins": 16,
+      "draws": 7,
+      "losses": 15,
+      "goals_for": 52,
+      "goals_against": 55,
+      "goal_difference": -3,
+      "points": 55
+    },
+    {
+      "season": "2006-07",
+      "rank": 15,
+      "played": 38,
+      "wins": 12,
+      "draws": 5,
+      "losses": 21,
+      "goals_for": 35,
+      "goals_against": 59,
+      "goal_difference": -24,
+      "points": 41
+    },
+    {
+      "season": "2007-08",
+      "rank": 10,
+      "played": 38,
+      "wins": 13,
+      "draws": 10,
+      "losses": 15,
+      "goals_for": 42,
+      "goals_against": 50,
+      "goal_difference": -8,
+      "points": 49
+    }
+  ],
+  "scope_note": "Only the seasons individually transcribed and included in this archive; not a full career history."
+}

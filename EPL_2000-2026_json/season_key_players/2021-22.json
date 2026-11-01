@@ -1,0 +1,41 @@
+{
+  "season": "2021-22",
+  "record_type": "season_key_players_index",
+  "selection_rule": "Premier League official Player of the Season and Golden Boot winners; not full squad",
+  "players": [
+    {
+      "title": "Kevin De Bruyne",
+      "team": "Manchester City",
+      "awards": {
+        "player_of_the_season": true,
+        "golden_boot": false
+      },
+      "golden_boot_goals": null,
+      "file": "players_historical_key/2021-22/kevin_de_bruyne.json"
+    },
+    {
+      "title": "Mohamed Salah",
+      "team": "Liverpool",
+      "awards": {
+        "player_of_the_season": false,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 23,
+      "file": "players_historical_key/2021-22/mohamed_salah.json"
+    },
+    {
+      "title": "Son Heung-min",
+      "team": "Tottenham Hotspur",
+      "awards": {
+        "player_of_the_season": false,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 23,
+      "file": "players_historical_key/2021-22/son_heung_min.json"
+    }
+  ],
+  "source_urls": [
+    "https://www.premierleague.com/en/news/3489431",
+    "https://www.premierleague.com/en/news/1206108"
+  ]
+}

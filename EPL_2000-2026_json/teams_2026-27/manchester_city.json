@@ -1,0 +1,28 @@
+{
+  "title": "Manchester City",
+  "url": "https://en.wikipedia.org/wiki/Manchester_City_F.C.",
+  "text": "Manchester City은(는) 2026–27 잉글랜드 프리미어리그 참가 구단이다. 홈구장은 City of Manchester Stadium이며 소재지는 Manchester이다. 감독은 Enzo Maresca, 주장은 Rúben Dias이다. 2026년 10월 19일까지 7경기를 치러 7승 0무 0패, 승점 21점, 리그 1위를 기록했다.",
+  "source": "영어 위키백과",
+  "collected_at": "2026-10-21",
+  "record_type": "team",
+  "league": "Premier League",
+  "season": "2026-27",
+  "team_id": "manchester_city",
+  "city": "Manchester",
+  "stadium": "City of Manchester Stadium",
+  "manager": "Enzo Maresca",
+  "captain": "Rúben Dias",
+  "squad_as_of": "2026-09-02",
+  "season_stats_as_of": "2026-10-19",
+  "season_stats": {
+    "rank": 1,
+    "played": 7,
+    "wins": 7,
+    "draws": 0,
+    "losses": 0,
+    "goals_for": 19,
+    "goals_against": 7,
+    "goal_difference": 12,
+    "points": 21
+  }
+}

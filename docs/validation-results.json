@@ -1,0 +1,165 @@
+{
+  "target_item": {
+    "id": "korean_profile:son_heung_min",
+    "title": "손흥민 (Son Heung-min)",
+    "external_count_before": 21
+  },
+  "ask_and_repeat": {
+    "first_seconds": 28.56,
+    "repeat_seconds": 26.62,
+    "evidence": [
+      {
+        "label": 1,
+        "title": "손흥민",
+        "source_type": "wikipedia",
+        "has_url": true
+      },
+      {
+        "label": 2,
+        "title": "손흥민",
+        "source_type": "wikipedia",
+        "has_url": true
+      },
+      {
+        "label": 3,
+        "title": "손흥민 (Son Heung-min)",
+        "source_type": "EPL 로컬 JSON (보완 근거)",
+        "has_url": true
+      }
+    ],
+    "citations": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "2",
+      "3",
+      "3"
+    ],
+    "audit": [
+      {
+        "cache_hit": false,
+        "selected": [],
+        "discarded": []
+      },
+      {
+        "cache_hit": false,
+        "selected": [],
+        "discarded": []
+      },
+      {
+        "cache_hit": false,
+        "selected": [
+          "손흥민"
+        ],
+        "discarded": [
+          "버질 판 데이크"
+        ]
+      }
+    ],
+    "repeat_cache_hits": [
+      true,
+      false,
+      false
+    ]
+  },
+  "top_k": {
+    "top_1": [
+      [
+        1,
+        "손흥민"
+      ],
+      [
+        2,
+        "손흥민 (Son Heung-min)"
+      ]
+    ],
+    "top_5": [
+      [
+        1,
+        "손흥민"
+      ],
+      [
+        2,
+        "손흥민"
+      ],
+      [
+        3,
+        "손흥민 (Son Heung-min)"
+      ]
+    ]
+  },
+  "condition_search": [],
+  "comparison": {
+    "items": [
+      "pfa:2000-01:fabien_barthez",
+      "pfa:2000-01:jaap_stam"
+    ],
+    "evidence": [
+      [
+        1,
+        "파비앙 바르테즈 (Fabien Barthez)",
+        "EPL 로컬 JSON (보완 근거)",
+        true
+      ],
+      [
+        2,
+        "야프 스탐 (Jaap Stam)",
+        "EPL 로컬 JSON (보완 근거)",
+        true
+      ],
+      [
+        3,
+        "파비앙 바르테즈 (Fabien Barthez) — EPL 로컬 선수 기록 요약",
+        "EPL 로컬 JSON (선수 기록 요약)",
+        false
+      ],
+      [
+        4,
+        "야프 스탐 (Jaap Stam) — EPL 로컬 선수 기록 요약",
+        "EPL 로컬 JSON (선수 기록 요약)",
+        false
+      ]
+    ],
+    "citations": [
+      "3",
+      "4",
+      "1",
+      "3",
+      "2",
+      "4",
+      "1",
+      "3",
+      "2",
+      "4",
+      "1",
+      "3",
+      "2",
+      "4"
+    ]
+  },
+  "chunking": {
+    "error_type": "PermissionError",
+    "error": "[WinError 32] 다른 프로세스가 파일을 사용 중이기 때문에 프로세스가 액세스 할 수 없습니다: 'C:\\\\Users\\\\SSAFY\\\\Desktop\\\\AI_Core_pjt\\\\tmprwj7t8ll\\\\a\\\\f6f630b2-c387-4567-9740-9329063bb51a\\\\data_level0.bin'"
+  },
+  "streamlit_chat_and_history": {
+    "exceptions": 0,
+    "chat_messages_initial": 2,
+    "chat_messages_alternate_item": 2,
+    "chat_messages_restored_item": 2,
+    "expanders": [
+      "자연어 조건으로 EPL 항목 찾기",
+      "답변 근거 · 1개",
+      "외부 문서 수집·선별 이력",
+      "🎵 경기장 배경음악"
+    ]
+  },
+  "missing_key_ui": {
+    "warnings": [
+      "`.env`에 `GMS_KEY`를 설정하면 색인과 RAG를 사용할 수 있습니다."
+    ],
+    "exceptions": 0
+  },
+  "external_count_after": 22
+}

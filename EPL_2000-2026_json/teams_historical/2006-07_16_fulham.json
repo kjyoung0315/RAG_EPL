@@ -1,0 +1,22 @@
+{
+  "title": "Fulham",
+  "season": "2006-07",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=Fulham%202006-07%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "Fulham의 2006-07 잉글랜드 프리미어리그 최종 성적은 16위, 38경기 8승 15무 15패, 38득점 60실점, 승점 39점이다.",
+  "season_stats": {
+    "rank": 16,
+    "played": 38,
+    "wins": 8,
+    "draws": 15,
+    "losses": 15,
+    "goals_for": 38,
+    "goals_against": 60,
+    "goal_difference": -22,
+    "points": 39
+  },
+  "collected_at": "2026-10-21"
+}

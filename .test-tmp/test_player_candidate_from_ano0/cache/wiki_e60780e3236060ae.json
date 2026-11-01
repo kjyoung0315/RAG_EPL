@@ -1,0 +1,26 @@
+{
+  "documents": [
+    {
+      "document_id": "be5044b2bb4eccd941980af5",
+      "related_item_id": "pfa:2003-04:steven_gerrard",
+      "title": "스티븐 제라드",
+      "text": "스티븐 제라드 본문",
+      "source_url": "https://example.com/스티븐 제라드",
+      "source_type": "wikipedia",
+      "search_query": "제라드 PFA"
+    }
+  ],
+  "audit": {
+    "query": "제라드 PFA",
+    "selected": [
+      "스티븐 제라드"
+    ],
+    "discarded": [
+      "데이비드 베컴"
+    ],
+    "rejected_as_unrelated": [
+      "데이비드 베컴"
+    ],
+    "cache_hit": false
+  }
+}

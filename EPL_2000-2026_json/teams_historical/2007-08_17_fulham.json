@@ -1,0 +1,22 @@
+{
+  "title": "Fulham",
+  "season": "2007-08",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=Fulham%202007-08%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "Fulham의 2007-08 잉글랜드 프리미어리그 최종 성적은 17위, 38경기 8승 12무 18패, 38득점 60실점, 승점 36점이다.",
+  "season_stats": {
+    "rank": 17,
+    "played": 38,
+    "wins": 8,
+    "draws": 12,
+    "losses": 18,
+    "goals_for": 38,
+    "goals_against": 60,
+    "goal_difference": -22,
+    "points": 36
+  },
+  "collected_at": "2026-10-21"
+}

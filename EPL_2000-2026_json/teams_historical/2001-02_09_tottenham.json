@@ -1,0 +1,22 @@
+{
+  "title": "Tottenham",
+  "season": "2001-02",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=Tottenham%202001-02%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "Tottenham의 2001-02 잉글랜드 프리미어리그 최종 성적은 9위, 38경기 14승 8무 16패, 49득점 53실점, 승점 50점이다.",
+  "season_stats": {
+    "rank": 9,
+    "played": 38,
+    "wins": 14,
+    "draws": 8,
+    "losses": 16,
+    "goals_for": 49,
+    "goals_against": 53,
+    "goal_difference": -4,
+    "points": 50
+  },
+  "collected_at": "2026-10-21"
+}

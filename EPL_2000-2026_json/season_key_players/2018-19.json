@@ -1,0 +1,51 @@
+{
+  "season": "2018-19",
+  "record_type": "season_key_players_index",
+  "selection_rule": "Premier League official Player of the Season and Golden Boot winners; not full squad",
+  "players": [
+    {
+      "title": "Virgil van Dijk",
+      "team": "Liverpool",
+      "awards": {
+        "player_of_the_season": true,
+        "golden_boot": false
+      },
+      "golden_boot_goals": null,
+      "file": "players_historical_key/2018-19/virgil_van_dijk.json"
+    },
+    {
+      "title": "Pierre-Emerick Aubameyang",
+      "team": "Arsenal",
+      "awards": {
+        "player_of_the_season": false,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 22,
+      "file": "players_historical_key/2018-19/pierre_emerick_aubameyang.json"
+    },
+    {
+      "title": "Sadio Mane",
+      "team": "Liverpool",
+      "awards": {
+        "player_of_the_season": false,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 22,
+      "file": "players_historical_key/2018-19/sadio_mane.json"
+    },
+    {
+      "title": "Mohamed Salah",
+      "team": "Liverpool",
+      "awards": {
+        "player_of_the_season": false,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 22,
+      "file": "players_historical_key/2018-19/mohamed_salah.json"
+    }
+  ],
+  "source_urls": [
+    "https://www.premierleague.com/en/news/3489431",
+    "https://www.premierleague.com/en/news/1206108"
+  ]
+}

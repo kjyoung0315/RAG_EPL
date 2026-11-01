@@ -1,0 +1,22 @@
+{
+  "title": "West Ham",
+  "season": "2006-07",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=West%20Ham%202006-07%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "West Ham의 2006-07 잉글랜드 프리미어리그 최종 성적은 15위, 38경기 12승 5무 21패, 35득점 59실점, 승점 41점이다.",
+  "season_stats": {
+    "rank": 15,
+    "played": 38,
+    "wins": 12,
+    "draws": 5,
+    "losses": 21,
+    "goals_for": 35,
+    "goals_against": 59,
+    "goal_difference": -24,
+    "points": 41
+  },
+  "collected_at": "2026-10-21"
+}

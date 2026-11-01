@@ -1,0 +1,28 @@
+{
+  "title": "Nottingham Forest",
+  "url": "https://en.wikipedia.org/wiki/Nottingham_Forest_F.C.",
+  "text": "Nottingham Forest은(는) 2026–27 잉글랜드 프리미어리그 참가 구단이다. 홈구장은 City Ground이며 소재지는 West Bridgford이다. 감독은 Oliver Glasner, 주장은 Ryan Yates이다. 2026년 10월 19일까지 7경기를 치러 1승 2무 4패, 승점 5점, 리그 19위를 기록했다.",
+  "source": "영어 위키백과",
+  "collected_at": "2026-10-21",
+  "record_type": "team",
+  "league": "Premier League",
+  "season": "2026-27",
+  "team_id": "nottingham_forest",
+  "city": "West Bridgford",
+  "stadium": "City Ground",
+  "manager": "Oliver Glasner",
+  "captain": "Ryan Yates",
+  "squad_as_of": "2026-09-07",
+  "season_stats_as_of": "2026-10-19",
+  "season_stats": {
+    "rank": 19,
+    "played": 7,
+    "wins": 1,
+    "draws": 2,
+    "losses": 4,
+    "goals_for": 5,
+    "goals_against": 9,
+    "goal_difference": -4,
+    "points": 5
+  }
+}

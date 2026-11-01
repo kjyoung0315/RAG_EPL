@@ -1,0 +1,28 @@
+{
+  "title": "Brighton & Hove Albion",
+  "url": "https://en.wikipedia.org/wiki/Brighton_%26_Hove_Albion_F.C.",
+  "text": "Brighton & Hove Albion은(는) 2026–27 잉글랜드 프리미어리그 참가 구단이다. 홈구장은 Falmer Stadium이며 소재지는 Falmer이다. 감독은 Fabian Hürzeler, 주장은 Lewis Dunk이다. 2026년 10월 19일까지 7경기를 치러 5승 1무 1패, 승점 16점, 리그 3위를 기록했다.",
+  "source": "영어 위키백과",
+  "collected_at": "2026-10-21",
+  "record_type": "team",
+  "league": "Premier League",
+  "season": "2026-27",
+  "team_id": "brighton_hove_albion",
+  "city": "Falmer",
+  "stadium": "Falmer Stadium",
+  "manager": "Fabian Hürzeler",
+  "captain": "Lewis Dunk",
+  "squad_as_of": "2026-09-03",
+  "season_stats_as_of": "2026-10-19",
+  "season_stats": {
+    "rank": 3,
+    "played": 7,
+    "wins": 5,
+    "draws": 1,
+    "losses": 1,
+    "goals_for": 23,
+    "goals_against": 5,
+    "goal_difference": 18,
+    "points": 16
+  }
+}

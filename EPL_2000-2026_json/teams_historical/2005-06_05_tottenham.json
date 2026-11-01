@@ -1,0 +1,22 @@
+{
+  "title": "Tottenham",
+  "season": "2005-06",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=Tottenham%202005-06%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "Tottenham의 2005-06 잉글랜드 프리미어리그 최종 성적은 5위, 38경기 18승 11무 9패, 53득점 38실점, 승점 65점이다.",
+  "season_stats": {
+    "rank": 5,
+    "played": 38,
+    "wins": 18,
+    "draws": 11,
+    "losses": 9,
+    "goals_for": 53,
+    "goals_against": 38,
+    "goal_difference": 15,
+    "points": 65
+  },
+  "collected_at": "2026-10-21"
+}

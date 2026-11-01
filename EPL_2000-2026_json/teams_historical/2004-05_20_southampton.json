@@ -1,0 +1,22 @@
+{
+  "title": "Southampton",
+  "season": "2004-05",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=Southampton%202004-05%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "Southampton의 2004-05 잉글랜드 프리미어리그 최종 성적은 20위, 38경기 6승 14무 18패, 45득점 66실점, 승점 32점이다.",
+  "season_stats": {
+    "rank": 20,
+    "played": 38,
+    "wins": 6,
+    "draws": 14,
+    "losses": 18,
+    "goals_for": 45,
+    "goals_against": 66,
+    "goal_difference": -21,
+    "points": 32
+  },
+  "collected_at": "2026-10-21"
+}

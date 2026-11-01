@@ -1,0 +1,116 @@
+{
+  "title": "Newcastle",
+  "record_type": "team_historical_performance",
+  "source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "source": "EPL historical season records",
+  "seasons_included": [
+    "2000-01",
+    "2001-02",
+    "2002-03",
+    "2003-04",
+    "2004-05",
+    "2005-06",
+    "2006-07",
+    "2007-08"
+  ],
+  "seasons_covered_count": 8,
+  "season_records": [
+    {
+      "season": "2000-01",
+      "rank": 11,
+      "played": 38,
+      "wins": 14,
+      "draws": 9,
+      "losses": 15,
+      "goals_for": 44,
+      "goals_against": 50,
+      "goal_difference": -6,
+      "points": 51
+    },
+    {
+      "season": "2001-02",
+      "rank": 4,
+      "played": 38,
+      "wins": 21,
+      "draws": 8,
+      "losses": 9,
+      "goals_for": 74,
+      "goals_against": 52,
+      "goal_difference": 22,
+      "points": 71
+    },
+    {
+      "season": "2002-03",
+      "rank": 3,
+      "played": 38,
+      "wins": 21,
+      "draws": 6,
+      "losses": 11,
+      "goals_for": 63,
+      "goals_against": 48,
+      "goal_difference": 15,
+      "points": 69
+    },
+    {
+      "season": "2003-04",
+      "rank": 5,
+      "played": 38,
+      "wins": 13,
+      "draws": 17,
+      "losses": 8,
+      "goals_for": 52,
+      "goals_against": 40,
+      "goal_difference": 12,
+      "points": 56
+    },
+    {
+      "season": "2004-05",
+      "rank": 14,
+      "played": 38,
+      "wins": 10,
+      "draws": 14,
+      "losses": 14,
+      "goals_for": 47,
+      "goals_against": 57,
+      "goal_difference": -10,
+      "points": 44
+    },
+    {
+      "season": "2005-06",
+      "rank": 7,
+      "played": 38,
+      "wins": 17,
+      "draws": 7,
+      "losses": 14,
+      "goals_for": 47,
+      "goals_against": 42,
+      "goal_difference": 5,
+      "points": 58
+    },
+    {
+      "season": "2006-07",
+      "rank": 13,
+      "played": 38,
+      "wins": 11,
+      "draws": 10,
+      "losses": 17,
+      "goals_for": 38,
+      "goals_against": 47,
+      "goal_difference": -9,
+      "points": 43
+    },
+    {
+      "season": "2007-08",
+      "rank": 12,
+      "played": 38,
+      "wins": 11,
+      "draws": 10,
+      "losses": 17,
+      "goals_for": 45,
+      "goals_against": 65,
+      "goal_difference": -20,
+      "points": 43
+    }
+  ],
+  "scope_note": "Only the seasons individually transcribed and included in this archive; not a full career history."
+}

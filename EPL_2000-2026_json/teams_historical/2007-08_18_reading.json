@@ -1,0 +1,22 @@
+{
+  "title": "Reading",
+  "season": "2007-08",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=Reading%202007-08%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "Reading의 2007-08 잉글랜드 프리미어리그 최종 성적은 18위, 38경기 10승 6무 22패, 41득점 66실점, 승점 36점이다.",
+  "season_stats": {
+    "rank": 18,
+    "played": 38,
+    "wins": 10,
+    "draws": 6,
+    "losses": 22,
+    "goals_for": 41,
+    "goals_against": 66,
+    "goal_difference": -25,
+    "points": 36
+  },
+  "collected_at": "2026-10-21"
+}

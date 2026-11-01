@@ -1,0 +1,22 @@
+{
+  "title": "Birmingham",
+  "season": "2003-04",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=Birmingham%202003-04%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "Birmingham의 2003-04 잉글랜드 프리미어리그 최종 성적은 10위, 38경기 12승 14무 12패, 43득점 48실점, 승점 50점이다.",
+  "season_stats": {
+    "rank": 10,
+    "played": 38,
+    "wins": 12,
+    "draws": 14,
+    "losses": 12,
+    "goals_for": 43,
+    "goals_against": 48,
+    "goal_difference": -5,
+    "points": 50
+  },
+  "collected_at": "2026-10-21"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Wolves",
+  "season": "2003-04",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=Wolves%202003-04%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "Wolves의 2003-04 잉글랜드 프리미어리그 최종 성적은 20위, 38경기 7승 12무 19패, 38득점 77실점, 승점 33점이다.",
+  "season_stats": {
+    "rank": 20,
+    "played": 38,
+    "wins": 7,
+    "draws": 12,
+    "losses": 19,
+    "goals_for": 38,
+    "goals_against": 77,
+    "goal_difference": -39,
+    "points": 33
+  },
+  "collected_at": "2026-10-21"
+}

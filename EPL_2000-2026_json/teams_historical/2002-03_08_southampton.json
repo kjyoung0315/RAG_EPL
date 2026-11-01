@@ -1,0 +1,22 @@
+{
+  "title": "Southampton",
+  "season": "2002-03",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=Southampton%202002-03%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "Southampton의 2002-03 잉글랜드 프리미어리그 최종 성적은 8위, 38경기 13승 13무 12패, 43득점 46실점, 승점 52점이다.",
+  "season_stats": {
+    "rank": 8,
+    "played": 38,
+    "wins": 13,
+    "draws": 13,
+    "losses": 12,
+    "goals_for": 43,
+    "goals_against": 46,
+    "goal_difference": -3,
+    "points": 52
+  },
+  "collected_at": "2026-10-21"
+}

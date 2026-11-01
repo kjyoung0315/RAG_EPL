@@ -1,0 +1,18 @@
+{
+  "title": "2026-27 Premier League",
+  "season": "2026-27",
+  "start_year": 2026,
+  "end_year": 2027,
+  "competition": "English Premier League",
+  "status": "in_progress",
+  "champion": null,
+  "text": "2026-27 EPL 시즌 진행 중. 현재까지 최종 우승팀 미확정.",
+  "source": "Wikipedia season lookup (champion summary from earlier dataset)",
+  "url": "https://en.wikipedia.org/w/index.php?search=2026%E2%80%9327%20Premier%20League",
+  "search_query": "2026–27 Premier League",
+  "collected_at": "2026-10-21",
+  "data_coverage": "current_season_snapshot",
+  "historical_full_table_included": false,
+  "historical_roster_included": false,
+  "source_note": "Search URL is not a verified Wikipedia document citation."
+}

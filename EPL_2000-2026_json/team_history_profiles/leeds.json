@@ -1,0 +1,64 @@
+{
+  "title": "Leeds",
+  "record_type": "team_historical_performance",
+  "source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "source": "EPL historical season records",
+  "seasons_included": [
+    "2000-01",
+    "2001-02",
+    "2002-03",
+    "2003-04"
+  ],
+  "seasons_covered_count": 4,
+  "season_records": [
+    {
+      "season": "2000-01",
+      "rank": 4,
+      "played": 38,
+      "wins": 20,
+      "draws": 8,
+      "losses": 10,
+      "goals_for": 64,
+      "goals_against": 43,
+      "goal_difference": 21,
+      "points": 68
+    },
+    {
+      "season": "2001-02",
+      "rank": 5,
+      "played": 38,
+      "wins": 18,
+      "draws": 12,
+      "losses": 8,
+      "goals_for": 53,
+      "goals_against": 37,
+      "goal_difference": 16,
+      "points": 66
+    },
+    {
+      "season": "2002-03",
+      "rank": 15,
+      "played": 38,
+      "wins": 14,
+      "draws": 5,
+      "losses": 19,
+      "goals_for": 58,
+      "goals_against": 57,
+      "goal_difference": 1,
+      "points": 47
+    },
+    {
+      "season": "2003-04",
+      "rank": 19,
+      "played": 38,
+      "wins": 8,
+      "draws": 9,
+      "losses": 21,
+      "goals_for": 40,
+      "goals_against": 79,
+      "goal_difference": -39,
+      "points": 33
+    }
+  ],
+  "scope_note": "Only the seasons individually transcribed and included in this archive; not a full career history."
+}

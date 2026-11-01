@@ -1,0 +1,538 @@
+{
+  "total_records": 48,
+  "season_count": 26,
+  "records": [
+    {
+      "season": "2000-01",
+      "title": "Patrick Vieira",
+      "team": "Arsenal",
+      "awards": {
+        "player_of_the_season": true,
+        "golden_boot": false
+      },
+      "golden_boot_goals": null,
+      "file": "players_historical_key/2000-01/patrick_vieira.json"
+    },
+    {
+      "season": "2000-01",
+      "title": "Jimmy Floyd Hasselbaink",
+      "team": "Chelsea",
+      "awards": {
+        "player_of_the_season": false,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 23,
+      "file": "players_historical_key/2000-01/jimmy_floyd_hasselbaink.json"
+    },
+    {
+      "season": "2001-02",
+      "title": "Freddie Ljungberg",
+      "team": "Arsenal",
+      "awards": {
+        "player_of_the_season": true,
+        "golden_boot": false
+      },
+      "golden_boot_goals": null,
+      "file": "players_historical_key/2001-02/freddie_ljungberg.json"
+    },
+    {
+      "season": "2001-02",
+      "title": "Thierry Henry",
+      "team": "Arsenal",
+      "awards": {
+        "player_of_the_season": false,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 24,
+      "file": "players_historical_key/2001-02/thierry_henry.json"
+    },
+    {
+      "season": "2002-03",
+      "title": "Ruud van Nistelrooy",
+      "team": "Manchester United",
+      "awards": {
+        "player_of_the_season": true,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 25,
+      "file": "players_historical_key/2002-03/ruud_van_nistelrooy.json"
+    },
+    {
+      "season": "2003-04",
+      "title": "Thierry Henry",
+      "team": "Arsenal",
+      "awards": {
+        "player_of_the_season": true,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 30,
+      "file": "players_historical_key/2003-04/thierry_henry.json"
+    },
+    {
+      "season": "2004-05",
+      "title": "Frank Lampard",
+      "team": "Chelsea",
+      "awards": {
+        "player_of_the_season": true,
+        "golden_boot": false
+      },
+      "golden_boot_goals": null,
+      "file": "players_historical_key/2004-05/frank_lampard.json"
+    },
+    {
+      "season": "2004-05",
+      "title": "Thierry Henry",
+      "team": "Arsenal",
+      "awards": {
+        "player_of_the_season": false,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 25,
+      "file": "players_historical_key/2004-05/thierry_henry.json"
+    },
+    {
+      "season": "2005-06",
+      "title": "Thierry Henry",
+      "team": "Arsenal",
+      "awards": {
+        "player_of_the_season": true,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 27,
+      "file": "players_historical_key/2005-06/thierry_henry.json"
+    },
+    {
+      "season": "2006-07",
+      "title": "Cristiano Ronaldo",
+      "team": "Manchester United",
+      "awards": {
+        "player_of_the_season": true,
+        "golden_boot": false
+      },
+      "golden_boot_goals": null,
+      "file": "players_historical_key/2006-07/cristiano_ronaldo.json"
+    },
+    {
+      "season": "2006-07",
+      "title": "Didier Drogba",
+      "team": "Chelsea",
+      "awards": {
+        "player_of_the_season": false,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 20,
+      "file": "players_historical_key/2006-07/didier_drogba.json"
+    },
+    {
+      "season": "2007-08",
+      "title": "Cristiano Ronaldo",
+      "team": "Manchester United",
+      "awards": {
+        "player_of_the_season": true,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 31,
+      "file": "players_historical_key/2007-08/cristiano_ronaldo.json"
+    },
+    {
+      "season": "2008-09",
+      "title": "Nemanja Vidic",
+      "team": "Manchester United",
+      "awards": {
+        "player_of_the_season": true,
+        "golden_boot": false
+      },
+      "golden_boot_goals": null,
+      "file": "players_historical_key/2008-09/nemanja_vidic.json"
+    },
+    {
+      "season": "2008-09",
+      "title": "Nicolas Anelka",
+      "team": "Chelsea",
+      "awards": {
+        "player_of_the_season": false,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 19,
+      "file": "players_historical_key/2008-09/nicolas_anelka.json"
+    },
+    {
+      "season": "2009-10",
+      "title": "Wayne Rooney",
+      "team": "Manchester United",
+      "awards": {
+        "player_of_the_season": true,
+        "golden_boot": false
+      },
+      "golden_boot_goals": null,
+      "file": "players_historical_key/2009-10/wayne_rooney.json"
+    },
+    {
+      "season": "2009-10",
+      "title": "Didier Drogba",
+      "team": "Chelsea",
+      "awards": {
+        "player_of_the_season": false,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 29,
+      "file": "players_historical_key/2009-10/didier_drogba.json"
+    },
+    {
+      "season": "2010-11",
+      "title": "Nemanja Vidic",
+      "team": "Manchester United",
+      "awards": {
+        "player_of_the_season": true,
+        "golden_boot": false
+      },
+      "golden_boot_goals": null,
+      "file": "players_historical_key/2010-11/nemanja_vidic.json"
+    },
+    {
+      "season": "2010-11",
+      "title": "Carlos Tevez",
+      "team": "Manchester City",
+      "awards": {
+        "player_of_the_season": false,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 20,
+      "file": "players_historical_key/2010-11/carlos_tevez.json"
+    },
+    {
+      "season": "2010-11",
+      "title": "Dimitar Berbatov",
+      "team": "Manchester United",
+      "awards": {
+        "player_of_the_season": false,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 20,
+      "file": "players_historical_key/2010-11/dimitar_berbatov.json"
+    },
+    {
+      "season": "2011-12",
+      "title": "Vincent Kompany",
+      "team": "Manchester City",
+      "awards": {
+        "player_of_the_season": true,
+        "golden_boot": false
+      },
+      "golden_boot_goals": null,
+      "file": "players_historical_key/2011-12/vincent_kompany.json"
+    },
+    {
+      "season": "2011-12",
+      "title": "Robin van Persie",
+      "team": "Arsenal",
+      "awards": {
+        "player_of_the_season": false,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 30,
+      "file": "players_historical_key/2011-12/robin_van_persie.json"
+    },
+    {
+      "season": "2012-13",
+      "title": "Gareth Bale",
+      "team": "Tottenham Hotspur",
+      "awards": {
+        "player_of_the_season": true,
+        "golden_boot": false
+      },
+      "golden_boot_goals": null,
+      "file": "players_historical_key/2012-13/gareth_bale.json"
+    },
+    {
+      "season": "2012-13",
+      "title": "Robin van Persie",
+      "team": "Manchester United",
+      "awards": {
+        "player_of_the_season": false,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 26,
+      "file": "players_historical_key/2012-13/robin_van_persie.json"
+    },
+    {
+      "season": "2013-14",
+      "title": "Luis Suarez",
+      "team": "Liverpool",
+      "awards": {
+        "player_of_the_season": true,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 31,
+      "file": "players_historical_key/2013-14/luis_suarez.json"
+    },
+    {
+      "season": "2014-15",
+      "title": "Eden Hazard",
+      "team": "Chelsea",
+      "awards": {
+        "player_of_the_season": true,
+        "golden_boot": false
+      },
+      "golden_boot_goals": null,
+      "file": "players_historical_key/2014-15/eden_hazard.json"
+    },
+    {
+      "season": "2014-15",
+      "title": "Sergio Aguero",
+      "team": "Manchester City",
+      "awards": {
+        "player_of_the_season": false,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 26,
+      "file": "players_historical_key/2014-15/sergio_aguero.json"
+    },
+    {
+      "season": "2015-16",
+      "title": "Jamie Vardy",
+      "team": "Leicester City",
+      "awards": {
+        "player_of_the_season": true,
+        "golden_boot": false
+      },
+      "golden_boot_goals": null,
+      "file": "players_historical_key/2015-16/jamie_vardy.json"
+    },
+    {
+      "season": "2015-16",
+      "title": "Harry Kane",
+      "team": "Tottenham Hotspur",
+      "awards": {
+        "player_of_the_season": false,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 25,
+      "file": "players_historical_key/2015-16/harry_kane.json"
+    },
+    {
+      "season": "2016-17",
+      "title": "N'Golo Kante",
+      "team": "Chelsea",
+      "awards": {
+        "player_of_the_season": true,
+        "golden_boot": false
+      },
+      "golden_boot_goals": null,
+      "file": "players_historical_key/2016-17/n_golo_kante.json"
+    },
+    {
+      "season": "2016-17",
+      "title": "Harry Kane",
+      "team": "Tottenham Hotspur",
+      "awards": {
+        "player_of_the_season": false,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 29,
+      "file": "players_historical_key/2016-17/harry_kane.json"
+    },
+    {
+      "season": "2017-18",
+      "title": "Mohamed Salah",
+      "team": "Liverpool",
+      "awards": {
+        "player_of_the_season": true,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 32,
+      "file": "players_historical_key/2017-18/mohamed_salah.json"
+    },
+    {
+      "season": "2018-19",
+      "title": "Virgil van Dijk",
+      "team": "Liverpool",
+      "awards": {
+        "player_of_the_season": true,
+        "golden_boot": false
+      },
+      "golden_boot_goals": null,
+      "file": "players_historical_key/2018-19/virgil_van_dijk.json"
+    },
+    {
+      "season": "2018-19",
+      "title": "Pierre-Emerick Aubameyang",
+      "team": "Arsenal",
+      "awards": {
+        "player_of_the_season": false,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 22,
+      "file": "players_historical_key/2018-19/pierre_emerick_aubameyang.json"
+    },
+    {
+      "season": "2018-19",
+      "title": "Sadio Mane",
+      "team": "Liverpool",
+      "awards": {
+        "player_of_the_season": false,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 22,
+      "file": "players_historical_key/2018-19/sadio_mane.json"
+    },
+    {
+      "season": "2018-19",
+      "title": "Mohamed Salah",
+      "team": "Liverpool",
+      "awards": {
+        "player_of_the_season": false,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 22,
+      "file": "players_historical_key/2018-19/mohamed_salah.json"
+    },
+    {
+      "season": "2019-20",
+      "title": "Kevin De Bruyne",
+      "team": "Manchester City",
+      "awards": {
+        "player_of_the_season": true,
+        "golden_boot": false
+      },
+      "golden_boot_goals": null,
+      "file": "players_historical_key/2019-20/kevin_de_bruyne.json"
+    },
+    {
+      "season": "2019-20",
+      "title": "Jamie Vardy",
+      "team": "Leicester City",
+      "awards": {
+        "player_of_the_season": false,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 23,
+      "file": "players_historical_key/2019-20/jamie_vardy.json"
+    },
+    {
+      "season": "2020-21",
+      "title": "Ruben Dias",
+      "team": "Manchester City",
+      "awards": {
+        "player_of_the_season": true,
+        "golden_boot": false
+      },
+      "golden_boot_goals": null,
+      "file": "players_historical_key/2020-21/ruben_dias.json"
+    },
+    {
+      "season": "2020-21",
+      "title": "Harry Kane",
+      "team": "Tottenham Hotspur",
+      "awards": {
+        "player_of_the_season": false,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 23,
+      "file": "players_historical_key/2020-21/harry_kane.json"
+    },
+    {
+      "season": "2021-22",
+      "title": "Kevin De Bruyne",
+      "team": "Manchester City",
+      "awards": {
+        "player_of_the_season": true,
+        "golden_boot": false
+      },
+      "golden_boot_goals": null,
+      "file": "players_historical_key/2021-22/kevin_de_bruyne.json"
+    },
+    {
+      "season": "2021-22",
+      "title": "Mohamed Salah",
+      "team": "Liverpool",
+      "awards": {
+        "player_of_the_season": false,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 23,
+      "file": "players_historical_key/2021-22/mohamed_salah.json"
+    },
+    {
+      "season": "2021-22",
+      "title": "Son Heung-min",
+      "team": "Tottenham Hotspur",
+      "awards": {
+        "player_of_the_season": false,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 23,
+      "file": "players_historical_key/2021-22/son_heung_min.json"
+    },
+    {
+      "season": "2022-23",
+      "title": "Erling Haaland",
+      "team": "Manchester City",
+      "awards": {
+        "player_of_the_season": true,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 36,
+      "file": "players_historical_key/2022-23/erling_haaland.json"
+    },
+    {
+      "season": "2023-24",
+      "title": "Phil Foden",
+      "team": "Manchester City",
+      "awards": {
+        "player_of_the_season": true,
+        "golden_boot": false
+      },
+      "golden_boot_goals": null,
+      "file": "players_historical_key/2023-24/phil_foden.json"
+    },
+    {
+      "season": "2023-24",
+      "title": "Erling Haaland",
+      "team": "Manchester City",
+      "awards": {
+        "player_of_the_season": false,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 27,
+      "file": "players_historical_key/2023-24/erling_haaland.json"
+    },
+    {
+      "season": "2024-25",
+      "title": "Mohamed Salah",
+      "team": "Liverpool",
+      "awards": {
+        "player_of_the_season": true,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 29,
+      "file": "players_historical_key/2024-25/mohamed_salah.json"
+    },
+    {
+      "season": "2025-26",
+      "title": "Bruno Fernandes",
+      "team": "Manchester United",
+      "awards": {
+        "player_of_the_season": true,
+        "golden_boot": false
+      },
+      "golden_boot_goals": null,
+      "file": "players_historical_key/2025-26/bruno_fernandes.json"
+    },
+    {
+      "season": "2025-26",
+      "title": "Erling Haaland",
+      "team": "Manchester City",
+      "awards": {
+        "player_of_the_season": false,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 27,
+      "file": "players_historical_key/2025-26/erling_haaland.json"
+    }
+  ],
+  "source_urls": [
+    "https://www.premierleague.com/en/news/3489431",
+    "https://www.premierleague.com/en/news/1206108"
+  ]
+}

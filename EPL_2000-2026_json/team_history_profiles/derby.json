@@ -1,0 +1,51 @@
+{
+  "title": "Derby",
+  "record_type": "team_historical_performance",
+  "source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "source": "EPL historical season records",
+  "seasons_included": [
+    "2000-01",
+    "2001-02",
+    "2007-08"
+  ],
+  "seasons_covered_count": 3,
+  "season_records": [
+    {
+      "season": "2000-01",
+      "rank": 17,
+      "played": 38,
+      "wins": 10,
+      "draws": 12,
+      "losses": 16,
+      "goals_for": 37,
+      "goals_against": 59,
+      "goal_difference": -22,
+      "points": 42
+    },
+    {
+      "season": "2001-02",
+      "rank": 19,
+      "played": 38,
+      "wins": 8,
+      "draws": 6,
+      "losses": 24,
+      "goals_for": 33,
+      "goals_against": 63,
+      "goal_difference": -30,
+      "points": 30
+    },
+    {
+      "season": "2007-08",
+      "rank": 20,
+      "played": 38,
+      "wins": 1,
+      "draws": 8,
+      "losses": 29,
+      "goals_for": 20,
+      "goals_against": 89,
+      "goal_difference": -69,
+      "points": 11
+    }
+  ],
+  "scope_note": "Only the seasons individually transcribed and included in this archive; not a full career history."
+}

@@ -1,0 +1,58 @@
+{
+  "record_type": "team_squad_snapshot",
+  "season": "2026-27",
+  "title": "Everton",
+  "team_id": "everton",
+  "team": "Everton",
+  "league": "Premier League",
+  "source": "영어 위키백과 구단 선수 명단 기반 제공 데이터",
+  "url": "https://en.wikipedia.org/wiki/Everton_F.C.#Players",
+  "collected_at": "2026-10-21",
+  "squad_as_of": "2026-09-02",
+  "is_complete_roster": false,
+  "completeness_note": "제공된 players_2026-27 데이터에 포함된 선수만 묶은 스냅샷이며, 전체 1군 명단을 보장하지 않습니다.",
+  "players": [
+    {
+      "name": "Ainsley Maitland-Niles",
+      "position": "DF",
+      "shirt_number": 2,
+      "national_team_code": "ENG",
+      "is_captain": false
+    },
+    {
+      "name": "Jarrad Branthwaite",
+      "position": "DF",
+      "shirt_number": 4,
+      "national_team_code": "ENG",
+      "is_captain": false
+    },
+    {
+      "name": "Michael Keane",
+      "position": "DF",
+      "shirt_number": 5,
+      "national_team_code": "ENG",
+      "is_captain": false
+    },
+    {
+      "name": "James Tarkowski",
+      "position": "DF",
+      "shirt_number": 6,
+      "national_team_code": "ENG",
+      "is_captain": true
+    },
+    {
+      "name": "Jordan Pickford",
+      "position": "GK",
+      "shirt_number": 1,
+      "national_team_code": "ENG",
+      "is_captain": false
+    },
+    {
+      "name": "Kiernan Dewsbury-Hall",
+      "position": "MF",
+      "shirt_number": 8,
+      "national_team_code": "ENG",
+      "is_captain": false
+    }
+  ]
+}

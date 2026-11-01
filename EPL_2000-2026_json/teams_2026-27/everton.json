@@ -1,0 +1,28 @@
+{
+  "title": "Everton",
+  "url": "https://en.wikipedia.org/wiki/Everton_F.C.",
+  "text": "Everton은(는) 2026–27 잉글랜드 프리미어리그 참가 구단이다. 홈구장은 Hill Dickinson Stadium이며 소재지는 Liverpool이다. 감독은 David Moyes, 주장은 James Tarkowski이다. 2026년 10월 19일까지 7경기를 치러 2승 4무 1패, 승점 10점, 리그 8위를 기록했다.",
+  "source": "영어 위키백과",
+  "collected_at": "2026-10-21",
+  "record_type": "team",
+  "league": "Premier League",
+  "season": "2026-27",
+  "team_id": "everton",
+  "city": "Liverpool",
+  "stadium": "Hill Dickinson Stadium",
+  "manager": "David Moyes",
+  "captain": "James Tarkowski",
+  "squad_as_of": "2026-09-02",
+  "season_stats_as_of": "2026-10-19",
+  "season_stats": {
+    "rank": 8,
+    "played": 7,
+    "wins": 2,
+    "draws": 4,
+    "losses": 1,
+    "goals_for": 8,
+    "goals_against": 7,
+    "goal_difference": 1,
+    "points": 10
+  }
+}

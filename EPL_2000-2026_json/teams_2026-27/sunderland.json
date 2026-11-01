@@ -1,0 +1,28 @@
+{
+  "title": "Sunderland",
+  "url": "https://en.wikipedia.org/wiki/Sunderland_A.F.C.",
+  "text": "Sunderland은(는) 2026–27 잉글랜드 프리미어리그 참가 구단이다. 홈구장은 Stadium of Light이며 소재지는 Sunderland이다. 감독은 Régis Le Bris, 주장은 Granit Xhaka이다. 2026년 10월 19일까지 7경기를 치러 1승 1무 5패, 승점 4점, 리그 20위를 기록했다.",
+  "source": "영어 위키백과",
+  "collected_at": "2026-10-21",
+  "record_type": "team",
+  "league": "Premier League",
+  "season": "2026-27",
+  "team_id": "sunderland",
+  "city": "Sunderland",
+  "stadium": "Stadium of Light",
+  "manager": "Régis Le Bris",
+  "captain": "Granit Xhaka",
+  "squad_as_of": "2026-09-03",
+  "season_stats_as_of": "2026-10-19",
+  "season_stats": {
+    "rank": 20,
+    "played": 7,
+    "wins": 1,
+    "draws": 1,
+    "losses": 5,
+    "goals_for": 6,
+    "goals_against": 14,
+    "goal_difference": -8,
+    "points": 4
+  }
+}

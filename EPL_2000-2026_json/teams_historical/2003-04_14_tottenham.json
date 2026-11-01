@@ -1,0 +1,22 @@
+{
+  "title": "Tottenham",
+  "season": "2003-04",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=Tottenham%202003-04%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "Tottenham의 2003-04 잉글랜드 프리미어리그 최종 성적은 14위, 38경기 13승 6무 19패, 47득점 57실점, 승점 45점이다.",
+  "season_stats": {
+    "rank": 14,
+    "played": 38,
+    "wins": 13,
+    "draws": 6,
+    "losses": 19,
+    "goals_for": 47,
+    "goals_against": 57,
+    "goal_difference": -10,
+    "points": 45
+  },
+  "collected_at": "2026-10-21"
+}

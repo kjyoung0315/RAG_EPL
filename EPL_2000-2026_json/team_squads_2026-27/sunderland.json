@@ -1,0 +1,58 @@
+{
+  "record_type": "team_squad_snapshot",
+  "season": "2026-27",
+  "title": "Sunderland",
+  "team_id": "sunderland",
+  "team": "Sunderland",
+  "league": "Premier League",
+  "source": "영어 위키백과 구단 선수 명단 기반 제공 데이터",
+  "url": "https://en.wikipedia.org/wiki/Sunderland_A.F.C.#Players",
+  "collected_at": "2026-10-21",
+  "squad_as_of": "2026-09-03",
+  "is_complete_roster": false,
+  "completeness_note": "제공된 players_2026-27 데이터에 포함된 선수만 묶은 스냅샷이며, 전체 1군 명단을 보장하지 않습니다.",
+  "players": [
+    {
+      "name": "Kevin Danso",
+      "position": "DF",
+      "shirt_number": 4,
+      "national_team_code": "AUT",
+      "is_captain": false
+    },
+    {
+      "name": "Daniel Ballard",
+      "position": "DF",
+      "shirt_number": 5,
+      "national_team_code": "NIR",
+      "is_captain": false
+    },
+    {
+      "name": "Dayann Methalie",
+      "position": "DF",
+      "shirt_number": 6,
+      "national_team_code": "FRA",
+      "is_captain": false
+    },
+    {
+      "name": "Chemsdine Talbi",
+      "position": "FW",
+      "shirt_number": 7,
+      "national_team_code": "MAR",
+      "is_captain": false
+    },
+    {
+      "name": "Alan Browne",
+      "position": "MF",
+      "shirt_number": 8,
+      "national_team_code": "IRL",
+      "is_captain": false
+    },
+    {
+      "name": "Granit Xhaka",
+      "position": "MF",
+      "shirt_number": 34,
+      "national_team_code": "SUI",
+      "is_captain": true
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Birmingham",
+  "season": "2007-08",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=Birmingham%202007-08%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "Birmingham의 2007-08 잉글랜드 프리미어리그 최종 성적은 19위, 38경기 8승 11무 19패, 46득점 62실점, 승점 35점이다.",
+  "season_stats": {
+    "rank": 19,
+    "played": 38,
+    "wins": 8,
+    "draws": 11,
+    "losses": 19,
+    "goals_for": 46,
+    "goals_against": 62,
+    "goal_difference": -16,
+    "points": 35
+  },
+  "collected_at": "2026-10-21"
+}

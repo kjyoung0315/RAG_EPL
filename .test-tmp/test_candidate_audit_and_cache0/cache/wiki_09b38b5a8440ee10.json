@@ -1,0 +1,24 @@
+{
+  "documents": [
+    {
+      "document_id": "a3c6f10d3fef619d6369bfe3",
+      "related_item_id": "season:2000-01",
+      "title": "선택 문서",
+      "text": "선택 문서 본문",
+      "source_url": "https://example.com/선택 문서",
+      "source_type": "wikipedia",
+      "search_query": "검색어"
+    }
+  ],
+  "audit": {
+    "query": "검색어",
+    "selected": [
+      "선택 문서"
+    ],
+    "discarded": [
+      "제외 문서"
+    ],
+    "rejected_as_unrelated": [],
+    "cache_hit": false
+  }
+}

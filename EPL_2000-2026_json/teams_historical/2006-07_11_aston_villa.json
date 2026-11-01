@@ -1,0 +1,22 @@
+{
+  "title": "Aston Villa",
+  "season": "2006-07",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=Aston%20Villa%202006-07%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "Aston Villa의 2006-07 잉글랜드 프리미어리그 최종 성적은 11위, 38경기 11승 17무 10패, 43득점 41실점, 승점 50점이다.",
+  "season_stats": {
+    "rank": 11,
+    "played": 38,
+    "wins": 11,
+    "draws": 17,
+    "losses": 10,
+    "goals_for": 43,
+    "goals_against": 41,
+    "goal_difference": 2,
+    "points": 50
+  },
+  "collected_at": "2026-10-21"
+}

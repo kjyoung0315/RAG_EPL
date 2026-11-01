@@ -1,0 +1,22 @@
+{
+  "title": "Sunderland",
+  "season": "2005-06",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=Sunderland%202005-06%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "Sunderland의 2005-06 잉글랜드 프리미어리그 최종 성적은 20위, 38경기 3승 6무 29패, 26득점 69실점, 승점 15점이다.",
+  "season_stats": {
+    "rank": 20,
+    "played": 38,
+    "wins": 3,
+    "draws": 6,
+    "losses": 29,
+    "goals_for": 26,
+    "goals_against": 69,
+    "goal_difference": -43,
+    "points": 15
+  },
+  "collected_at": "2026-10-21"
+}

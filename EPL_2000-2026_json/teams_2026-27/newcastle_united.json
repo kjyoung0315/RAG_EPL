@@ -1,0 +1,28 @@
+{
+  "title": "Newcastle United",
+  "url": "https://en.wikipedia.org/wiki/Newcastle_United_F.C.",
+  "text": "Newcastle United은(는) 2026–27 잉글랜드 프리미어리그 참가 구단이다. 홈구장은 St James' Park이며 소재지는 Newcastle upon Tyne이다. 감독은 Matthias Jaissle, 주장은 Dan Burn이다. 2026년 10월 19일까지 7경기를 치러 2승 2무 3패, 승점 8점, 리그 11위를 기록했다.",
+  "source": "영어 위키백과",
+  "collected_at": "2026-10-21",
+  "record_type": "team",
+  "league": "Premier League",
+  "season": "2026-27",
+  "team_id": "newcastle_united",
+  "city": "Newcastle upon Tyne",
+  "stadium": "St James' Park",
+  "manager": "Matthias Jaissle",
+  "captain": "Dan Burn",
+  "squad_as_of": "2026-09-01",
+  "season_stats_as_of": "2026-10-19",
+  "season_stats": {
+    "rank": 11,
+    "played": 7,
+    "wins": 2,
+    "draws": 2,
+    "losses": 3,
+    "goals_for": 10,
+    "goals_against": 14,
+    "goal_difference": -4,
+    "points": 8
+  }
+}

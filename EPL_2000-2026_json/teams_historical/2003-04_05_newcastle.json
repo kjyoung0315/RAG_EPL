@@ -1,0 +1,22 @@
+{
+  "title": "Newcastle",
+  "season": "2003-04",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=Newcastle%202003-04%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "Newcastle의 2003-04 잉글랜드 프리미어리그 최종 성적은 5위, 38경기 13승 17무 8패, 52득점 40실점, 승점 56점이다.",
+  "season_stats": {
+    "rank": 5,
+    "played": 38,
+    "wins": 13,
+    "draws": 17,
+    "losses": 8,
+    "goals_for": 52,
+    "goals_against": 40,
+    "goal_difference": 12,
+    "points": 56
+  },
+  "collected_at": "2026-10-21"
+}

@@ -1,0 +1,58 @@
+{
+  "record_type": "team_squad_snapshot",
+  "season": "2026-27",
+  "title": "Crystal Palace",
+  "team_id": "crystal_palace",
+  "team": "Crystal Palace",
+  "league": "Premier League",
+  "source": "영어 위키백과 구단 선수 명단 기반 제공 데이터",
+  "url": "https://en.wikipedia.org/wiki/Crystal_Palace_F.C.#Players",
+  "collected_at": "2026-10-21",
+  "squad_as_of": "2026-09-04",
+  "is_complete_roster": false,
+  "completeness_note": "제공된 players_2026-27 데이터에 포함된 선수만 묶은 스냅샷이며, 전체 1군 명단을 보장하지 않습니다.",
+  "players": [
+    {
+      "name": "Tyrick Mitchell",
+      "position": "DF",
+      "shirt_number": 3,
+      "national_team_code": "ENG",
+      "is_captain": false
+    },
+    {
+      "name": "Chadi Riad",
+      "position": "DF",
+      "shirt_number": 4,
+      "national_team_code": "MAR",
+      "is_captain": false
+    },
+    {
+      "name": "Axel Disasi",
+      "position": "DF",
+      "shirt_number": 5,
+      "national_team_code": "FRA",
+      "is_captain": false
+    },
+    {
+      "name": "Jaydee Canvot",
+      "position": "DF",
+      "shirt_number": 6,
+      "national_team_code": "FRA",
+      "is_captain": false
+    },
+    {
+      "name": "Ismaïla Sarr",
+      "position": "FW",
+      "shirt_number": 7,
+      "national_team_code": "SEN",
+      "is_captain": false
+    },
+    {
+      "name": "Dean Henderson",
+      "position": "GK",
+      "shirt_number": 1,
+      "national_team_code": "ENG",
+      "is_captain": true
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "West Brom",
+  "record_type": "team_historical_performance",
+  "source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "source": "EPL historical season records",
+  "seasons_included": [
+    "2002-03",
+    "2004-05",
+    "2005-06"
+  ],
+  "seasons_covered_count": 3,
+  "season_records": [
+    {
+      "season": "2002-03",
+      "rank": 19,
+      "played": 38,
+      "wins": 6,
+      "draws": 8,
+      "losses": 24,
+      "goals_for": 29,
+      "goals_against": 65,
+      "goal_difference": -36,
+      "points": 26
+    },
+    {
+      "season": "2004-05",
+      "rank": 17,
+      "played": 38,
+      "wins": 6,
+      "draws": 16,
+      "losses": 16,
+      "goals_for": 36,
+      "goals_against": 61,
+      "goal_difference": -25,
+      "points": 34
+    },
+    {
+      "season": "2005-06",
+      "rank": 19,
+      "played": 38,
+      "wins": 7,
+      "draws": 9,
+      "losses": 22,
+      "goals_for": 31,
+      "goals_against": 58,
+      "goal_difference": -27,
+      "points": 30
+    }
+  ],
+  "scope_note": "Only the seasons individually transcribed and included in this archive; not a full career history."
+}

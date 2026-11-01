@@ -1,0 +1,28 @@
+{
+  "title": "Manchester United",
+  "url": "https://en.wikipedia.org/wiki/Manchester_United_F.C.",
+  "text": "Manchester United은(는) 2026–27 잉글랜드 프리미어리그 참가 구단이다. 홈구장은 Old Trafford이며 소재지는 Manchester이다. 감독은 Michael Carrick, 주장은 Bruno Fernandes이다. 2026년 10월 19일까지 7경기를 치러 1승 4무 2패, 승점 7점, 리그 13위를 기록했다.",
+  "source": "영어 위키백과",
+  "collected_at": "2026-10-21",
+  "record_type": "team",
+  "league": "Premier League",
+  "season": "2026-27",
+  "team_id": "manchester_united",
+  "city": "Manchester",
+  "stadium": "Old Trafford",
+  "manager": "Michael Carrick",
+  "captain": "Bruno Fernandes",
+  "squad_as_of": "2026-09-01",
+  "season_stats_as_of": "2026-10-19",
+  "season_stats": {
+    "rank": 13,
+    "played": 7,
+    "wins": 1,
+    "draws": 4,
+    "losses": 2,
+    "goals_for": 10,
+    "goals_against": 10,
+    "goal_difference": 0,
+    "points": 7
+  }
+}

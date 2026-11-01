@@ -1,0 +1,143 @@
+{
+  "record_type": "pfa_team_of_the_year",
+  "season": "2025-26",
+  "title": "2025-26 PFA Premier League Team of the Year",
+  "players": [
+    {
+      "record_type": "pfa_team_of_the_year_player",
+      "season": "2025-26",
+      "title": "David Raya",
+      "team": "Arsenal",
+      "position_group": "GK",
+      "award": "PFA Premier League Team of the Year",
+      "source": "Wikipedia: PFA Team of the Year",
+      "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2020s)",
+      "verification_status": "source_table_checked",
+      "collected_at": "2026-10-21"
+    },
+    {
+      "record_type": "pfa_team_of_the_year_player",
+      "season": "2025-26",
+      "title": "William Saliba",
+      "team": "Arsenal",
+      "position_group": "DF",
+      "award": "PFA Premier League Team of the Year",
+      "source": "Wikipedia: PFA Team of the Year",
+      "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2020s)",
+      "verification_status": "source_table_checked",
+      "collected_at": "2026-10-21"
+    },
+    {
+      "record_type": "pfa_team_of_the_year_player",
+      "season": "2025-26",
+      "title": "Gabriel Magalhães",
+      "team": "Arsenal",
+      "position_group": "DF",
+      "award": "PFA Premier League Team of the Year",
+      "source": "Wikipedia: PFA Team of the Year",
+      "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2020s)",
+      "verification_status": "source_table_checked",
+      "collected_at": "2026-10-21"
+    },
+    {
+      "record_type": "pfa_team_of_the_year_player",
+      "season": "2025-26",
+      "title": "Jurriën Timber",
+      "team": "Arsenal",
+      "position_group": "DF",
+      "award": "PFA Premier League Team of the Year",
+      "source": "Wikipedia: PFA Team of the Year",
+      "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2020s)",
+      "verification_status": "source_table_checked",
+      "collected_at": "2026-10-21"
+    },
+    {
+      "record_type": "pfa_team_of_the_year_player",
+      "season": "2025-26",
+      "title": "Nico O'Reilly",
+      "team": "Manchester City",
+      "position_group": "DF",
+      "award": "PFA Premier League Team of the Year",
+      "source": "Wikipedia: PFA Team of the Year",
+      "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2020s)",
+      "verification_status": "source_table_checked",
+      "collected_at": "2026-10-21"
+    },
+    {
+      "record_type": "pfa_team_of_the_year_player",
+      "season": "2025-26",
+      "title": "Bruno Fernandes",
+      "team": "Manchester United",
+      "position_group": "MF",
+      "award": "PFA Premier League Team of the Year",
+      "source": "Wikipedia: PFA Team of the Year",
+      "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2020s)",
+      "verification_status": "source_table_checked",
+      "collected_at": "2026-10-21"
+    },
+    {
+      "record_type": "pfa_team_of_the_year_player",
+      "season": "2025-26",
+      "title": "Rayan Cherki",
+      "team": "Manchester City",
+      "position_group": "MF",
+      "award": "PFA Premier League Team of the Year",
+      "source": "Wikipedia: PFA Team of the Year",
+      "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2020s)",
+      "verification_status": "source_table_checked",
+      "collected_at": "2026-10-21"
+    },
+    {
+      "record_type": "pfa_team_of_the_year_player",
+      "season": "2025-26",
+      "title": "Declan Rice",
+      "team": "Arsenal",
+      "position_group": "MF",
+      "award": "PFA Premier League Team of the Year",
+      "source": "Wikipedia: PFA Team of the Year",
+      "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2020s)",
+      "verification_status": "source_table_checked",
+      "collected_at": "2026-10-21"
+    },
+    {
+      "record_type": "pfa_team_of_the_year_player",
+      "season": "2025-26",
+      "title": "Erling Haaland",
+      "team": "Manchester City",
+      "position_group": "FW",
+      "award": "PFA Premier League Team of the Year",
+      "source": "Wikipedia: PFA Team of the Year",
+      "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2020s)",
+      "verification_status": "source_table_checked",
+      "collected_at": "2026-10-21"
+    },
+    {
+      "record_type": "pfa_team_of_the_year_player",
+      "season": "2025-26",
+      "title": "Antoine Semenyo",
+      "team": "Bournemouth / Manchester City",
+      "position_group": "FW",
+      "award": "PFA Premier League Team of the Year",
+      "source": "Wikipedia: PFA Team of the Year",
+      "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2020s)",
+      "verification_status": "source_table_checked",
+      "collected_at": "2026-10-21"
+    },
+    {
+      "record_type": "pfa_team_of_the_year_player",
+      "season": "2025-26",
+      "title": "Igor Thiago",
+      "team": "Brentford",
+      "position_group": "FW",
+      "award": "PFA Premier League Team of the Year",
+      "source": "Wikipedia: PFA Team of the Year",
+      "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2020s)",
+      "verification_status": "source_table_checked",
+      "collected_at": "2026-10-21"
+    }
+  ],
+  "count": 11,
+  "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2020s)",
+  "verification_status": "source_table_checked",
+  "collected_at": "2026-10-21"
+}

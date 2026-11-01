@@ -1,0 +1,31 @@
+{
+  "season": "2001-02",
+  "record_type": "season_key_players_index",
+  "selection_rule": "Premier League official Player of the Season and Golden Boot winners; not full squad",
+  "players": [
+    {
+      "title": "Freddie Ljungberg",
+      "team": "Arsenal",
+      "awards": {
+        "player_of_the_season": true,
+        "golden_boot": false
+      },
+      "golden_boot_goals": null,
+      "file": "players_historical_key/2001-02/freddie_ljungberg.json"
+    },
+    {
+      "title": "Thierry Henry",
+      "team": "Arsenal",
+      "awards": {
+        "player_of_the_season": false,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 24,
+      "file": "players_historical_key/2001-02/thierry_henry.json"
+    }
+  ],
+  "source_urls": [
+    "https://www.premierleague.com/en/news/3489431",
+    "https://www.premierleague.com/en/news/1206108"
+  ]
+}

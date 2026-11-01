@@ -1,0 +1,22 @@
+{
+  "title": "Arsenal",
+  "season": "2003-04",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=Arsenal%202003-04%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "Arsenal의 2003-04 잉글랜드 프리미어리그 최종 성적은 1위, 38경기 26승 12무 0패, 73득점 26실점, 승점 90점이다.",
+  "season_stats": {
+    "rank": 1,
+    "played": 38,
+    "wins": 26,
+    "draws": 12,
+    "losses": 0,
+    "goals_for": 73,
+    "goals_against": 26,
+    "goal_difference": 47,
+    "points": 90
+  },
+  "collected_at": "2026-10-21"
+}

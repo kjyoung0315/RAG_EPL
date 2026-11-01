@@ -1,0 +1,22 @@
+{
+  "title": "Blackburn",
+  "season": "2005-06",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=Blackburn%202005-06%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "Blackburn의 2005-06 잉글랜드 프리미어리그 최종 성적은 6위, 38경기 19승 6무 13패, 51득점 42실점, 승점 63점이다.",
+  "season_stats": {
+    "rank": 6,
+    "played": 38,
+    "wins": 19,
+    "draws": 6,
+    "losses": 13,
+    "goals_for": 51,
+    "goals_against": 42,
+    "goal_difference": 9,
+    "points": 63
+  },
+  "collected_at": "2026-10-21"
+}

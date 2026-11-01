@@ -1,0 +1,28 @@
+{
+  "title": "Liverpool",
+  "url": "https://en.wikipedia.org/wiki/Liverpool_F.C.",
+  "text": "Liverpool은(는) 2026–27 잉글랜드 프리미어리그 참가 구단이다. 홈구장은 Anfield이며 소재지는 Liverpool이다. 감독은 Andoni Iraola, 주장은 Virgil van Dijk이다. 2026년 10월 19일까지 7경기를 치러 3승 3무 1패, 승점 12점, 리그 5위를 기록했다.",
+  "source": "영어 위키백과",
+  "collected_at": "2026-10-21",
+  "record_type": "team",
+  "league": "Premier League",
+  "season": "2026-27",
+  "team_id": "liverpool",
+  "city": "Liverpool",
+  "stadium": "Anfield",
+  "manager": "Andoni Iraola",
+  "captain": "Virgil van Dijk",
+  "squad_as_of": "2026-09-01",
+  "season_stats_as_of": "2026-10-19",
+  "season_stats": {
+    "rank": 5,
+    "played": 7,
+    "wins": 3,
+    "draws": 3,
+    "losses": 1,
+    "goals_for": 9,
+    "goals_against": 8,
+    "goal_difference": 1,
+    "points": 12
+  }
+}

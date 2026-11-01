@@ -1,0 +1,22 @@
+{
+  "title": "Leeds",
+  "season": "2003-04",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=Leeds%202003-04%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "Leeds의 2003-04 잉글랜드 프리미어리그 최종 성적은 19위, 38경기 8승 9무 21패, 40득점 79실점, 승점 33점이다.",
+  "season_stats": {
+    "rank": 19,
+    "played": 38,
+    "wins": 8,
+    "draws": 9,
+    "losses": 21,
+    "goals_for": 40,
+    "goals_against": 79,
+    "goal_difference": -39,
+    "points": 33
+  },
+  "collected_at": "2026-10-21"
+}

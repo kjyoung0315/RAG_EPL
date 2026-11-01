@@ -1,0 +1,77 @@
+{
+  "title": "Sunderland",
+  "record_type": "team_historical_performance",
+  "source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "source": "EPL historical season records",
+  "seasons_included": [
+    "2000-01",
+    "2001-02",
+    "2002-03",
+    "2005-06",
+    "2007-08"
+  ],
+  "seasons_covered_count": 5,
+  "season_records": [
+    {
+      "season": "2000-01",
+      "rank": 7,
+      "played": 38,
+      "wins": 15,
+      "draws": 12,
+      "losses": 11,
+      "goals_for": 46,
+      "goals_against": 41,
+      "goal_difference": 5,
+      "points": 57
+    },
+    {
+      "season": "2001-02",
+      "rank": 17,
+      "played": 38,
+      "wins": 10,
+      "draws": 10,
+      "losses": 18,
+      "goals_for": 29,
+      "goals_against": 51,
+      "goal_difference": -22,
+      "points": 40
+    },
+    {
+      "season": "2002-03",
+      "rank": 20,
+      "played": 38,
+      "wins": 4,
+      "draws": 7,
+      "losses": 27,
+      "goals_for": 21,
+      "goals_against": 65,
+      "goal_difference": -44,
+      "points": 19
+    },
+    {
+      "season": "2005-06",
+      "rank": 20,
+      "played": 38,
+      "wins": 3,
+      "draws": 6,
+      "losses": 29,
+      "goals_for": 26,
+      "goals_against": 69,
+      "goal_difference": -43,
+      "points": 15
+    },
+    {
+      "season": "2007-08",
+      "rank": 15,
+      "played": 38,
+      "wins": 11,
+      "draws": 6,
+      "losses": 21,
+      "goals_for": 36,
+      "goals_against": 59,
+      "goal_difference": -23,
+      "points": 39
+    }
+  ],
+  "scope_note": "Only the seasons individually transcribed and included in this archive; not a full career history."
+}

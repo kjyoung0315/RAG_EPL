@@ -1,0 +1,22 @@
+{
+  "title": "Blackburn",
+  "season": "2007-08",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=Blackburn%202007-08%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "Blackburn의 2007-08 잉글랜드 프리미어리그 최종 성적은 7위, 38경기 15승 13무 10패, 50득점 48실점, 승점 58점이다.",
+  "season_stats": {
+    "rank": 7,
+    "played": 38,
+    "wins": 15,
+    "draws": 13,
+    "losses": 10,
+    "goals_for": 50,
+    "goals_against": 48,
+    "goal_difference": 2,
+    "points": 58
+  },
+  "collected_at": "2026-10-21"
+}

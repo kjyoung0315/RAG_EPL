@@ -1,0 +1,22 @@
+{
+  "title": "Portsmouth",
+  "season": "2007-08",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=Portsmouth%202007-08%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "Portsmouth의 2007-08 잉글랜드 프리미어리그 최종 성적은 8위, 38경기 16승 9무 13패, 48득점 40실점, 승점 57점이다.",
+  "season_stats": {
+    "rank": 8,
+    "played": 38,
+    "wins": 16,
+    "draws": 9,
+    "losses": 13,
+    "goals_for": 48,
+    "goals_against": 40,
+    "goal_difference": 8,
+    "points": 57
+  },
+  "collected_at": "2026-10-21"
+}

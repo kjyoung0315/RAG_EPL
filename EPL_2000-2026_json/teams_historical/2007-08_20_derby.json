@@ -1,0 +1,22 @@
+{
+  "title": "Derby",
+  "season": "2007-08",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=Derby%202007-08%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "Derby의 2007-08 잉글랜드 프리미어리그 최종 성적은 20위, 38경기 1승 8무 29패, 20득점 89실점, 승점 11점이다.",
+  "season_stats": {
+    "rank": 20,
+    "played": 38,
+    "wins": 1,
+    "draws": 8,
+    "losses": 29,
+    "goals_for": 20,
+    "goals_against": 89,
+    "goal_difference": -69,
+    "points": 11
+  },
+  "collected_at": "2026-10-21"
+}

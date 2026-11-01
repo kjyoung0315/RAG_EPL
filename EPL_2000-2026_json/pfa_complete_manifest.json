@@ -1,0 +1,11 @@
+{
+  "record_type": "dataset_manifest",
+  "pfa_best11_complete_seasons": 26,
+  "pfa_best11_player_season_json": 286,
+  "pfa_best11_season_summary_json": 26,
+  "added_pfa_player_json": 253,
+  "added_pfa_season_json": 23,
+  "total_json_files_including_manifests": 816,
+  "collected_at": "2026-10-21",
+  "note": "Original preexisting records remain and were not all reverified."
+}

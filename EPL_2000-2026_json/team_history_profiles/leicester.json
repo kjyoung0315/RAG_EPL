@@ -1,0 +1,51 @@
+{
+  "title": "Leicester",
+  "record_type": "team_historical_performance",
+  "source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "source": "EPL historical season records",
+  "seasons_included": [
+    "2000-01",
+    "2001-02",
+    "2003-04"
+  ],
+  "seasons_covered_count": 3,
+  "season_records": [
+    {
+      "season": "2000-01",
+      "rank": 13,
+      "played": 38,
+      "wins": 14,
+      "draws": 6,
+      "losses": 18,
+      "goals_for": 39,
+      "goals_against": 51,
+      "goal_difference": -12,
+      "points": 48
+    },
+    {
+      "season": "2001-02",
+      "rank": 20,
+      "played": 38,
+      "wins": 5,
+      "draws": 13,
+      "losses": 20,
+      "goals_for": 30,
+      "goals_against": 64,
+      "goal_difference": -34,
+      "points": 28
+    },
+    {
+      "season": "2003-04",
+      "rank": 18,
+      "played": 38,
+      "wins": 6,
+      "draws": 15,
+      "losses": 17,
+      "goals_for": 48,
+      "goals_against": 65,
+      "goal_difference": -17,
+      "points": 33
+    }
+  ],
+  "scope_note": "Only the seasons individually transcribed and included in this archive; not a full career history."
+}

@@ -1,0 +1,31 @@
+{
+  "season": "2015-16",
+  "record_type": "season_key_players_index",
+  "selection_rule": "Premier League official Player of the Season and Golden Boot winners; not full squad",
+  "players": [
+    {
+      "title": "Jamie Vardy",
+      "team": "Leicester City",
+      "awards": {
+        "player_of_the_season": true,
+        "golden_boot": false
+      },
+      "golden_boot_goals": null,
+      "file": "players_historical_key/2015-16/jamie_vardy.json"
+    },
+    {
+      "title": "Harry Kane",
+      "team": "Tottenham Hotspur",
+      "awards": {
+        "player_of_the_season": false,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 25,
+      "file": "players_historical_key/2015-16/harry_kane.json"
+    }
+  ],
+  "source_urls": [
+    "https://www.premierleague.com/en/news/3489431",
+    "https://www.premierleague.com/en/news/1206108"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "record_type": "team_squad_snapshot",
+  "season": "2026-27",
+  "title": "Ipswich Town",
+  "team_id": "ipswich_town",
+  "team": "Ipswich Town",
+  "league": "Premier League",
+  "source": "영어 위키백과 구단 선수 명단 기반 제공 데이터",
+  "url": "https://en.wikipedia.org/wiki/Ipswich_Town_F.C.#Players",
+  "collected_at": "2026-10-21",
+  "squad_as_of": "2026-09-01",
+  "is_complete_roster": false,
+  "completeness_note": "제공된 players_2026-27 데이터에 포함된 선수만 묶은 스냅샷이며, 전체 1군 명단을 보장하지 않습니다.",
+  "players": [
+    {
+      "name": "Darnell Furlong",
+      "position": "DF",
+      "shirt_number": 2,
+      "national_team_code": "ENG",
+      "is_captain": false
+    },
+    {
+      "name": "Leif Davis",
+      "position": "DF",
+      "shirt_number": 3,
+      "national_team_code": "ENG",
+      "is_captain": false
+    },
+    {
+      "name": "Cédric Kipré",
+      "position": "DF",
+      "shirt_number": 4,
+      "national_team_code": "CIV",
+      "is_captain": false
+    },
+    {
+      "name": "Dara O'Shea",
+      "position": "DF",
+      "shirt_number": 26,
+      "national_team_code": "IRL",
+      "is_captain": true
+    },
+    {
+      "name": "Alex Palmer",
+      "position": "GK",
+      "shirt_number": 1,
+      "national_team_code": "ENG",
+      "is_captain": false
+    },
+    {
+      "name": "Azor Matusiwa",
+      "position": "MF",
+      "shirt_number": 5,
+      "national_team_code": "NED",
+      "is_captain": false
+    }
+  ]
+}

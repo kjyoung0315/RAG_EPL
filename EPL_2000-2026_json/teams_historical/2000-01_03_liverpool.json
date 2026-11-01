@@ -1,0 +1,22 @@
+{
+  "title": "Liverpool",
+  "season": "2000-01",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=Liverpool%202000-01%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "Liverpool의 2000-01 잉글랜드 프리미어리그 최종 성적은 3위, 38경기 20승 9무 9패, 71득점 39실점, 승점 69점이다.",
+  "season_stats": {
+    "rank": 3,
+    "played": 38,
+    "wins": 20,
+    "draws": 9,
+    "losses": 9,
+    "goals_for": 71,
+    "goals_against": 39,
+    "goal_difference": 32,
+    "points": 69
+  },
+  "collected_at": "2026-10-21"
+}

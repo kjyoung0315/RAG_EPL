@@ -1,0 +1,22 @@
+{
+  "title": "Leicester",
+  "season": "2003-04",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=Leicester%202003-04%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "Leicester의 2003-04 잉글랜드 프리미어리그 최종 성적은 18위, 38경기 6승 15무 17패, 48득점 65실점, 승점 33점이다.",
+  "season_stats": {
+    "rank": 18,
+    "played": 38,
+    "wins": 6,
+    "draws": 15,
+    "losses": 17,
+    "goals_for": 48,
+    "goals_against": 65,
+    "goal_difference": -17,
+    "points": 33
+  },
+  "collected_at": "2026-10-21"
+}

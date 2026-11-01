@@ -1,0 +1,143 @@
+{
+  "record_type": "pfa_team_of_the_year",
+  "season": "2000-01",
+  "title": "2000-01 PFA Premier League Team of the Year",
+  "players": [
+    {
+      "record_type": "pfa_team_of_the_year_player",
+      "season": "2000-01",
+      "title": "Fabien Barthez",
+      "team": "Manchester United",
+      "position_group": "GK",
+      "award": "PFA Premier League Team of the Year",
+      "source": "Wikipedia: PFA Team of the Year",
+      "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2000s)",
+      "verification_status": "source_table_checked",
+      "collected_at": "2026-10-21"
+    },
+    {
+      "record_type": "pfa_team_of_the_year_player",
+      "season": "2000-01",
+      "title": "Stephen Carr",
+      "team": "Tottenham Hotspur",
+      "position_group": "DF",
+      "award": "PFA Premier League Team of the Year",
+      "source": "Wikipedia: PFA Team of the Year",
+      "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2000s)",
+      "verification_status": "source_table_checked",
+      "collected_at": "2026-10-21"
+    },
+    {
+      "record_type": "pfa_team_of_the_year_player",
+      "season": "2000-01",
+      "title": "Jaap Stam",
+      "team": "Manchester United",
+      "position_group": "DF",
+      "award": "PFA Premier League Team of the Year",
+      "source": "Wikipedia: PFA Team of the Year",
+      "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2000s)",
+      "verification_status": "source_table_checked",
+      "collected_at": "2026-10-21"
+    },
+    {
+      "record_type": "pfa_team_of_the_year_player",
+      "season": "2000-01",
+      "title": "Wes Brown",
+      "team": "Manchester United",
+      "position_group": "DF",
+      "award": "PFA Premier League Team of the Year",
+      "source": "Wikipedia: PFA Team of the Year",
+      "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2000s)",
+      "verification_status": "source_table_checked",
+      "collected_at": "2026-10-21"
+    },
+    {
+      "record_type": "pfa_team_of_the_year_player",
+      "season": "2000-01",
+      "title": "Sylvinho",
+      "team": "Arsenal",
+      "position_group": "DF",
+      "award": "PFA Premier League Team of the Year",
+      "source": "Wikipedia: PFA Team of the Year",
+      "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2000s)",
+      "verification_status": "source_table_checked",
+      "collected_at": "2026-10-21"
+    },
+    {
+      "record_type": "pfa_team_of_the_year_player",
+      "season": "2000-01",
+      "title": "Steven Gerrard",
+      "team": "Liverpool",
+      "position_group": "MF",
+      "award": "PFA Premier League Team of the Year",
+      "source": "Wikipedia: PFA Team of the Year",
+      "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2000s)",
+      "verification_status": "source_table_checked",
+      "collected_at": "2026-10-21"
+    },
+    {
+      "record_type": "pfa_team_of_the_year_player",
+      "season": "2000-01",
+      "title": "Roy Keane",
+      "team": "Manchester United",
+      "position_group": "MF",
+      "award": "PFA Premier League Team of the Year",
+      "source": "Wikipedia: PFA Team of the Year",
+      "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2000s)",
+      "verification_status": "source_table_checked",
+      "collected_at": "2026-10-21"
+    },
+    {
+      "record_type": "pfa_team_of_the_year_player",
+      "season": "2000-01",
+      "title": "Patrick Vieira",
+      "team": "Arsenal",
+      "position_group": "MF",
+      "award": "PFA Premier League Team of the Year",
+      "source": "Wikipedia: PFA Team of the Year",
+      "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2000s)",
+      "verification_status": "source_table_checked",
+      "collected_at": "2026-10-21"
+    },
+    {
+      "record_type": "pfa_team_of_the_year_player",
+      "season": "2000-01",
+      "title": "Ryan Giggs",
+      "team": "Manchester United",
+      "position_group": "MF",
+      "award": "PFA Premier League Team of the Year",
+      "source": "Wikipedia: PFA Team of the Year",
+      "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2000s)",
+      "verification_status": "source_table_checked",
+      "collected_at": "2026-10-21"
+    },
+    {
+      "record_type": "pfa_team_of_the_year_player",
+      "season": "2000-01",
+      "title": "Teddy Sheringham",
+      "team": "Manchester United",
+      "position_group": "FW",
+      "award": "PFA Premier League Team of the Year",
+      "source": "Wikipedia: PFA Team of the Year",
+      "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2000s)",
+      "verification_status": "source_table_checked",
+      "collected_at": "2026-10-21"
+    },
+    {
+      "record_type": "pfa_team_of_the_year_player",
+      "season": "2000-01",
+      "title": "Thierry Henry",
+      "team": "Arsenal",
+      "position_group": "FW",
+      "award": "PFA Premier League Team of the Year",
+      "source": "Wikipedia: PFA Team of the Year",
+      "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2000s)",
+      "verification_status": "source_table_checked",
+      "collected_at": "2026-10-21"
+    }
+  ],
+  "count": 11,
+  "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2000s)",
+  "verification_status": "source_table_checked",
+  "collected_at": "2026-10-21"
+}

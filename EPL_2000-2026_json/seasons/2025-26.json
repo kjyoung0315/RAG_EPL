@@ -1,0 +1,18 @@
+{
+  "title": "2025-26 Premier League",
+  "season": "2025-26",
+  "start_year": 2025,
+  "end_year": 2026,
+  "competition": "English Premier League",
+  "status": "completed",
+  "champion": "Arsenal",
+  "text": "2025-26 잉글랜드 프리미어리그 시즌. 우승팀: Arsenal.",
+  "source": "Wikipedia season lookup (champion summary from earlier dataset)",
+  "url": "https://en.wikipedia.org/w/index.php?search=2025%E2%80%9326%20Premier%20League",
+  "search_query": "2025–26 Premier League",
+  "collected_at": "2026-10-21",
+  "data_coverage": "champion_only",
+  "historical_full_table_included": false,
+  "historical_roster_included": false,
+  "source_note": "Search URL is not a verified Wikipedia document citation."
+}

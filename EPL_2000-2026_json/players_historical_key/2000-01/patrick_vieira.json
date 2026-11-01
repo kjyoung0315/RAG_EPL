@@ -1,0 +1,26 @@
+{
+  "title": "Patrick Vieira",
+  "record_type": "player_season_key_performance",
+  "season": "2000-01",
+  "team": "Arsenal",
+  "awards": {
+    "player_of_the_season": true,
+    "golden_boot": false
+  },
+  "goals_if_golden_boot": null,
+  "text": "2000-01 시즌 Arsenal의 Patrick Vieira. 공식 프리미어리그 기록에서 확인된 주요 성과: 프리미어리그 시즌 올해의 선수.",
+  "source": "Premier League official awards and Golden Boot lists",
+  "source_urls": [
+    "https://www.premierleague.com/en/news/3489431"
+  ],
+  "evidence": [
+    {
+      "field": "player_of_the_season",
+      "url": "https://www.premierleague.com/en/news/3489431",
+      "publisher": "Premier League official"
+    }
+  ],
+  "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=Patrick%20Vieira",
+  "collected_at": "2026-10-21",
+  "verification_status": "official_award_records_only"
+}

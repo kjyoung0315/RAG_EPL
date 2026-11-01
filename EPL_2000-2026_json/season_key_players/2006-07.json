@@ -1,0 +1,31 @@
+{
+  "season": "2006-07",
+  "record_type": "season_key_players_index",
+  "selection_rule": "Premier League official Player of the Season and Golden Boot winners; not full squad",
+  "players": [
+    {
+      "title": "Cristiano Ronaldo",
+      "team": "Manchester United",
+      "awards": {
+        "player_of_the_season": true,
+        "golden_boot": false
+      },
+      "golden_boot_goals": null,
+      "file": "players_historical_key/2006-07/cristiano_ronaldo.json"
+    },
+    {
+      "title": "Didier Drogba",
+      "team": "Chelsea",
+      "awards": {
+        "player_of_the_season": false,
+        "golden_boot": true
+      },
+      "golden_boot_goals": 20,
+      "file": "players_historical_key/2006-07/didier_drogba.json"
+    }
+  ],
+  "source_urls": [
+    "https://www.premierleague.com/en/news/3489431",
+    "https://www.premierleague.com/en/news/1206108"
+  ]
+}

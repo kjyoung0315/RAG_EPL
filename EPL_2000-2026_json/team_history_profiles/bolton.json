@@ -1,0 +1,103 @@
+{
+  "title": "Bolton",
+  "record_type": "team_historical_performance",
+  "source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "source": "EPL historical season records",
+  "seasons_included": [
+    "2001-02",
+    "2002-03",
+    "2003-04",
+    "2004-05",
+    "2005-06",
+    "2006-07",
+    "2007-08"
+  ],
+  "seasons_covered_count": 7,
+  "season_records": [
+    {
+      "season": "2001-02",
+      "rank": 16,
+      "played": 38,
+      "wins": 9,
+      "draws": 13,
+      "losses": 16,
+      "goals_for": 44,
+      "goals_against": 62,
+      "goal_difference": -18,
+      "points": 40
+    },
+    {
+      "season": "2002-03",
+      "rank": 17,
+      "played": 38,
+      "wins": 10,
+      "draws": 14,
+      "losses": 14,
+      "goals_for": 41,
+      "goals_against": 51,
+      "goal_difference": -10,
+      "points": 44
+    },
+    {
+      "season": "2003-04",
+      "rank": 8,
+      "played": 38,
+      "wins": 14,
+      "draws": 11,
+      "losses": 13,
+      "goals_for": 48,
+      "goals_against": 56,
+      "goal_difference": -8,
+      "points": 53
+    },
+    {
+      "season": "2004-05",
+      "rank": 6,
+      "played": 38,
+      "wins": 16,
+      "draws": 10,
+      "losses": 12,
+      "goals_for": 49,
+      "goals_against": 44,
+      "goal_difference": 5,
+      "points": 58
+    },
+    {
+      "season": "2005-06",
+      "rank": 8,
+      "played": 38,
+      "wins": 15,
+      "draws": 11,
+      "losses": 12,
+      "goals_for": 49,
+      "goals_against": 41,
+      "goal_difference": 8,
+      "points": 56
+    },
+    {
+      "season": "2006-07",
+      "rank": 7,
+      "played": 38,
+      "wins": 16,
+      "draws": 8,
+      "losses": 14,
+      "goals_for": 47,
+      "goals_against": 52,
+      "goal_difference": -5,
+      "points": 56
+    },
+    {
+      "season": "2007-08",
+      "rank": 16,
+      "played": 38,
+      "wins": 9,
+      "draws": 10,
+      "losses": 19,
+      "goals_for": 36,
+      "goals_against": 54,
+      "goal_difference": -18,
+      "points": 37
+    }
+  ],
+  "scope_note": "Only the seasons individually transcribed and included in this archive; not a full career history."
+}

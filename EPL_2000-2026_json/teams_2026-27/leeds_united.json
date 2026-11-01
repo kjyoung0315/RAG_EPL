@@ -1,0 +1,28 @@
+{
+  "title": "Leeds United",
+  "url": "https://en.wikipedia.org/wiki/Leeds_United_F.C.",
+  "text": "Leeds United은(는) 2026–27 잉글랜드 프리미어리그 참가 구단이다. 홈구장은 Elland Road이며 소재지는 Leeds이다. 감독은 Daniel Farke, 주장은 Ethan Ampadu이다. 2026년 10월 19일까지 7경기를 치러 2승 4무 1패, 승점 10점, 리그 7위를 기록했다.",
+  "source": "영어 위키백과",
+  "collected_at": "2026-10-21",
+  "record_type": "team",
+  "league": "Premier League",
+  "season": "2026-27",
+  "team_id": "leeds_united",
+  "city": "Leeds",
+  "stadium": "Elland Road",
+  "manager": "Daniel Farke",
+  "captain": "Ethan Ampadu",
+  "squad_as_of": "2026-09-02",
+  "season_stats_as_of": "2026-10-19",
+  "season_stats": {
+    "rank": 7,
+    "played": 7,
+    "wins": 2,
+    "draws": 4,
+    "losses": 1,
+    "goals_for": 9,
+    "goals_against": 6,
+    "goal_difference": 3,
+    "points": 10
+  }
+}

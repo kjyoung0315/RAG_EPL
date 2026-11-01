@@ -1,0 +1,32 @@
+{
+  "title": "Erling Haaland",
+  "record_type": "player_season_key_performance",
+  "season": "2022-23",
+  "team": "Manchester City",
+  "awards": {
+    "player_of_the_season": true,
+    "golden_boot": true
+  },
+  "goals_if_golden_boot": 36,
+  "text": "2022-23 시즌 Manchester City의 Erling Haaland. 공식 프리미어리그 기록에서 확인된 주요 성과: 프리미어리그 시즌 올해의 선수; 프리미어리그 공동 또는 단독 득점왕 36골.",
+  "source": "Premier League official awards and Golden Boot lists",
+  "source_urls": [
+    "https://www.premierleague.com/en/news/3489431",
+    "https://www.premierleague.com/en/news/1206108"
+  ],
+  "evidence": [
+    {
+      "field": "player_of_the_season",
+      "url": "https://www.premierleague.com/en/news/3489431",
+      "publisher": "Premier League official"
+    },
+    {
+      "field": "golden_boot_goals",
+      "url": "https://www.premierleague.com/en/news/1206108",
+      "publisher": "Premier League official"
+    }
+  ],
+  "wikipedia_search_url": "https://en.wikipedia.org/w/index.php?search=Erling%20Haaland",
+  "collected_at": "2026-10-21",
+  "verification_status": "official_award_records_only"
+}

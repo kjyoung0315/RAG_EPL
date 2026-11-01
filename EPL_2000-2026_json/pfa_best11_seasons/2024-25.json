@@ -1,0 +1,143 @@
+{
+  "record_type": "pfa_team_of_the_year",
+  "season": "2024-25",
+  "title": "2024-25 PFA Premier League Team of the Year",
+  "players": [
+    {
+      "record_type": "pfa_team_of_the_year_player",
+      "season": "2024-25",
+      "title": "Matz Sels",
+      "team": "Nottingham Forest",
+      "position_group": "GK",
+      "award": "PFA Premier League Team of the Year",
+      "source": "Wikipedia: PFA Team of the Year",
+      "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2020s)",
+      "verification_status": "source_table_checked",
+      "collected_at": "2026-10-21"
+    },
+    {
+      "record_type": "pfa_team_of_the_year_player",
+      "season": "2024-25",
+      "title": "William Saliba",
+      "team": "Arsenal",
+      "position_group": "DF",
+      "award": "PFA Premier League Team of the Year",
+      "source": "Wikipedia: PFA Team of the Year",
+      "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2020s)",
+      "verification_status": "source_table_checked",
+      "collected_at": "2026-10-21"
+    },
+    {
+      "record_type": "pfa_team_of_the_year_player",
+      "season": "2024-25",
+      "title": "Gabriel Magalhães",
+      "team": "Arsenal",
+      "position_group": "DF",
+      "award": "PFA Premier League Team of the Year",
+      "source": "Wikipedia: PFA Team of the Year",
+      "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2020s)",
+      "verification_status": "source_table_checked",
+      "collected_at": "2026-10-21"
+    },
+    {
+      "record_type": "pfa_team_of_the_year_player",
+      "season": "2024-25",
+      "title": "Virgil van Dijk",
+      "team": "Liverpool",
+      "position_group": "DF",
+      "award": "PFA Premier League Team of the Year",
+      "source": "Wikipedia: PFA Team of the Year",
+      "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2020s)",
+      "verification_status": "source_table_checked",
+      "collected_at": "2026-10-21"
+    },
+    {
+      "record_type": "pfa_team_of_the_year_player",
+      "season": "2024-25",
+      "title": "Milos Kerkez",
+      "team": "Bournemouth",
+      "position_group": "DF",
+      "award": "PFA Premier League Team of the Year",
+      "source": "Wikipedia: PFA Team of the Year",
+      "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2020s)",
+      "verification_status": "source_table_checked",
+      "collected_at": "2026-10-21"
+    },
+    {
+      "record_type": "pfa_team_of_the_year_player",
+      "season": "2024-25",
+      "title": "Alexis Mac Allister",
+      "team": "Liverpool",
+      "position_group": "MF",
+      "award": "PFA Premier League Team of the Year",
+      "source": "Wikipedia: PFA Team of the Year",
+      "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2020s)",
+      "verification_status": "source_table_checked",
+      "collected_at": "2026-10-21"
+    },
+    {
+      "record_type": "pfa_team_of_the_year_player",
+      "season": "2024-25",
+      "title": "Ryan Gravenberch",
+      "team": "Liverpool",
+      "position_group": "MF",
+      "award": "PFA Premier League Team of the Year",
+      "source": "Wikipedia: PFA Team of the Year",
+      "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2020s)",
+      "verification_status": "source_table_checked",
+      "collected_at": "2026-10-21"
+    },
+    {
+      "record_type": "pfa_team_of_the_year_player",
+      "season": "2024-25",
+      "title": "Declan Rice",
+      "team": "Arsenal",
+      "position_group": "MF",
+      "award": "PFA Premier League Team of the Year",
+      "source": "Wikipedia: PFA Team of the Year",
+      "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2020s)",
+      "verification_status": "source_table_checked",
+      "collected_at": "2026-10-21"
+    },
+    {
+      "record_type": "pfa_team_of_the_year_player",
+      "season": "2024-25",
+      "title": "Mohamed Salah",
+      "team": "Liverpool",
+      "position_group": "FW",
+      "award": "PFA Premier League Team of the Year",
+      "source": "Wikipedia: PFA Team of the Year",
+      "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2020s)",
+      "verification_status": "source_table_checked",
+      "collected_at": "2026-10-21"
+    },
+    {
+      "record_type": "pfa_team_of_the_year_player",
+      "season": "2024-25",
+      "title": "Alexander Isak",
+      "team": "Newcastle United",
+      "position_group": "FW",
+      "award": "PFA Premier League Team of the Year",
+      "source": "Wikipedia: PFA Team of the Year",
+      "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2020s)",
+      "verification_status": "source_table_checked",
+      "collected_at": "2026-10-21"
+    },
+    {
+      "record_type": "pfa_team_of_the_year_player",
+      "season": "2024-25",
+      "title": "Chris Wood",
+      "team": "Nottingham Forest",
+      "position_group": "FW",
+      "award": "PFA Premier League Team of the Year",
+      "source": "Wikipedia: PFA Team of the Year",
+      "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2020s)",
+      "verification_status": "source_table_checked",
+      "collected_at": "2026-10-21"
+    }
+  ],
+  "count": 11,
+  "url": "https://en.wikipedia.org/wiki/PFA_Team_of_the_Year_(2020s)",
+  "verification_status": "source_table_checked",
+  "collected_at": "2026-10-21"
+}

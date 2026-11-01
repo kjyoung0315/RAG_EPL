@@ -1,0 +1,28 @@
+{
+  "title": "Coventry City",
+  "url": "https://en.wikipedia.org/wiki/Coventry_City_F.C.",
+  "text": "Coventry City은(는) 2026–27 잉글랜드 프리미어리그 참가 구단이다. 홈구장은 Coventry Building Society Arena이며 소재지는 Coventry이다. 감독은 Frank Lampard, 주장은 Matt Grimes이다. 2026년 10월 19일까지 7경기를 치러 2승 0무 5패, 승점 6점, 리그 17위를 기록했다.",
+  "source": "영어 위키백과",
+  "collected_at": "2026-10-21",
+  "record_type": "team",
+  "league": "Premier League",
+  "season": "2026-27",
+  "team_id": "coventry_city",
+  "city": "Coventry",
+  "stadium": "Coventry Building Society Arena",
+  "manager": "Frank Lampard",
+  "captain": "Matt Grimes",
+  "squad_as_of": "2026-09-16",
+  "season_stats_as_of": "2026-10-19",
+  "season_stats": {
+    "rank": 17,
+    "played": 7,
+    "wins": 2,
+    "draws": 0,
+    "losses": 5,
+    "goals_for": 6,
+    "goals_against": 14,
+    "goal_difference": -8,
+    "points": 6
+  }
+}

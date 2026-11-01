@@ -1,0 +1,22 @@
+{
+  "title": "Arsenal",
+  "season": "2005-06",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=Arsenal%202005-06%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "Arsenal의 2005-06 잉글랜드 프리미어리그 최종 성적은 4위, 38경기 20승 7무 11패, 68득점 31실점, 승점 67점이다.",
+  "season_stats": {
+    "rank": 4,
+    "played": 38,
+    "wins": 20,
+    "draws": 7,
+    "losses": 11,
+    "goals_for": 68,
+    "goals_against": 31,
+    "goal_difference": 37,
+    "points": 67
+  },
+  "collected_at": "2026-10-21"
+}

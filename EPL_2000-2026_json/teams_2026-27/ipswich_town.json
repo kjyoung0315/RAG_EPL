@@ -1,0 +1,28 @@
+{
+  "title": "Ipswich Town",
+  "url": "https://en.wikipedia.org/wiki/Ipswich_Town_F.C.",
+  "text": "Ipswich Town은(는) 2026–27 잉글랜드 프리미어리그 참가 구단이다. 홈구장은 Portman Road이며 소재지는 Ipswich이다. 감독은 Gary O'Neil, 주장은 Dara O'Shea이다. 2026년 10월 19일까지 7경기를 치러 3승 0무 4패, 승점 9점, 리그 10위를 기록했다.",
+  "source": "영어 위키백과",
+  "collected_at": "2026-10-21",
+  "record_type": "team",
+  "league": "Premier League",
+  "season": "2026-27",
+  "team_id": "ipswich_town",
+  "city": "Ipswich",
+  "stadium": "Portman Road",
+  "manager": "Gary O'Neil",
+  "captain": "Dara O'Shea",
+  "squad_as_of": "2026-09-01",
+  "season_stats_as_of": "2026-10-19",
+  "season_stats": {
+    "rank": 10,
+    "played": 7,
+    "wins": 3,
+    "draws": 0,
+    "losses": 4,
+    "goals_for": 11,
+    "goals_against": 15,
+    "goal_difference": -4,
+    "points": 9
+  }
+}

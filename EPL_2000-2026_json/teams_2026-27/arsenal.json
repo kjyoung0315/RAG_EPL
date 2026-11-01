@@ -1,0 +1,28 @@
+{
+  "title": "Arsenal",
+  "url": "https://en.wikipedia.org/wiki/Arsenal_F.C.",
+  "text": "Arsenal은(는) 2026–27 잉글랜드 프리미어리그 참가 구단이다. 홈구장은 Emirates Stadium이며 소재지는 London이다. 감독은 Mikel Arteta, 주장은 Martin Ødegaard이다. 2026년 10월 19일까지 7경기를 치러 6승 0무 1패, 승점 18점, 리그 2위를 기록했다.",
+  "source": "영어 위키백과",
+  "collected_at": "2026-10-21",
+  "record_type": "team",
+  "league": "Premier League",
+  "season": "2026-27",
+  "team_id": "arsenal",
+  "city": "London",
+  "stadium": "Emirates Stadium",
+  "manager": "Mikel Arteta",
+  "captain": "Martin Ødegaard",
+  "squad_as_of": "2026-09-03",
+  "season_stats_as_of": "2026-10-19",
+  "season_stats": {
+    "rank": 2,
+    "played": 7,
+    "wins": 6,
+    "draws": 0,
+    "losses": 1,
+    "goals_for": 11,
+    "goals_against": 5,
+    "goal_difference": 6,
+    "points": 18
+  }
+}

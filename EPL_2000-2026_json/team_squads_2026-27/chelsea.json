@@ -1,0 +1,58 @@
+{
+  "record_type": "team_squad_snapshot",
+  "season": "2026-27",
+  "title": "Chelsea",
+  "team_id": "chelsea",
+  "team": "Chelsea",
+  "league": "Premier League",
+  "source": "영어 위키백과 구단 선수 명단 기반 제공 데이터",
+  "url": "https://en.wikipedia.org/wiki/Chelsea_F.C.#Players",
+  "collected_at": "2026-10-21",
+  "squad_as_of": "2026-09-01",
+  "is_complete_roster": false,
+  "completeness_note": "제공된 players_2026-27 데이터에 포함된 선수만 묶은 스냅샷이며, 전체 1군 명단을 보장하지 않습니다.",
+  "players": [
+    {
+      "name": "Marco Palestra",
+      "position": "DF",
+      "shirt_number": 2,
+      "national_team_code": "ITA",
+      "is_captain": false
+    },
+    {
+      "name": "Wesley Fofana",
+      "position": "DF",
+      "shirt_number": 3,
+      "national_team_code": "FRA",
+      "is_captain": false
+    },
+    {
+      "name": "Maxence Lacroix",
+      "position": "DF",
+      "shirt_number": 5,
+      "national_team_code": "FRA",
+      "is_captain": false
+    },
+    {
+      "name": "Reece James",
+      "position": "DF",
+      "shirt_number": 24,
+      "national_team_code": "ENG",
+      "is_captain": true
+    },
+    {
+      "name": "Emiliano Martínez",
+      "position": "GK",
+      "shirt_number": 1,
+      "national_team_code": "ARG",
+      "is_captain": false
+    },
+    {
+      "name": "Valentín Barco",
+      "position": "MF",
+      "shirt_number": 4,
+      "national_team_code": "ARG",
+      "is_captain": false
+    }
+  ]
+}

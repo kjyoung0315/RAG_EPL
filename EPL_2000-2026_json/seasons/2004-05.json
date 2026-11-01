@@ -1,0 +1,18 @@
+{
+  "title": "2004-05 Premier League",
+  "season": "2004-05",
+  "start_year": 2004,
+  "end_year": 2005,
+  "competition": "English Premier League",
+  "status": "completed",
+  "champion": "Chelsea",
+  "text": "2004-05 잉글랜드 프리미어리그 시즌. 우승팀: Chelsea.",
+  "source": "Wikipedia season lookup (champion summary from earlier dataset)",
+  "url": "https://en.wikipedia.org/w/index.php?search=2004%E2%80%9305%20Premier%20League",
+  "search_query": "2004–05 Premier League",
+  "collected_at": "2026-10-21",
+  "data_coverage": "champion_only",
+  "historical_full_table_included": false,
+  "historical_roster_included": false,
+  "source_note": "Search URL is not a verified Wikipedia document citation."
+}

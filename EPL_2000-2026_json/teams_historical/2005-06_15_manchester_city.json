@@ -1,0 +1,22 @@
+{
+  "title": "Manchester City",
+  "season": "2005-06",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=Manchester%20City%202005-06%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "Manchester City의 2005-06 잉글랜드 프리미어리그 최종 성적은 15위, 38경기 13승 4무 21패, 43득점 48실점, 승점 43점이다.",
+  "season_stats": {
+    "rank": 15,
+    "played": 38,
+    "wins": 13,
+    "draws": 4,
+    "losses": 21,
+    "goals_for": 43,
+    "goals_against": 48,
+    "goal_difference": -5,
+    "points": 43
+  },
+  "collected_at": "2026-10-21"
+}

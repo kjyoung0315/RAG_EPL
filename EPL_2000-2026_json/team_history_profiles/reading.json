@@ -1,0 +1,38 @@
+{
+  "title": "Reading",
+  "record_type": "team_historical_performance",
+  "source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "source": "EPL historical season records",
+  "seasons_included": [
+    "2006-07",
+    "2007-08"
+  ],
+  "seasons_covered_count": 2,
+  "season_records": [
+    {
+      "season": "2006-07",
+      "rank": 8,
+      "played": 38,
+      "wins": 16,
+      "draws": 7,
+      "losses": 15,
+      "goals_for": 52,
+      "goals_against": 47,
+      "goal_difference": 5,
+      "points": 55
+    },
+    {
+      "season": "2007-08",
+      "rank": 18,
+      "played": 38,
+      "wins": 10,
+      "draws": 6,
+      "losses": 22,
+      "goals_for": 41,
+      "goals_against": 66,
+      "goal_difference": -25,
+      "points": 36
+    }
+  ],
+  "scope_note": "Only the seasons individually transcribed and included in this archive; not a full career history."
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Chelsea",
+  "season": "2004-05",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=Chelsea%202004-05%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "Chelsea의 2004-05 잉글랜드 프리미어리그 최종 성적은 1위, 38경기 29승 8무 1패, 72득점 15실점, 승점 95점이다.",
+  "season_stats": {
+    "rank": 1,
+    "played": 38,
+    "wins": 29,
+    "draws": 8,
+    "losses": 1,
+    "goals_for": 72,
+    "goals_against": 15,
+    "goal_difference": 57,
+    "points": 95
+  },
+  "collected_at": "2026-10-21"
+}

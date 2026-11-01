@@ -1,0 +1,51 @@
+{
+  "title": "Wigan",
+  "record_type": "team_historical_performance",
+  "source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "source": "EPL historical season records",
+  "seasons_included": [
+    "2005-06",
+    "2006-07",
+    "2007-08"
+  ],
+  "seasons_covered_count": 3,
+  "season_records": [
+    {
+      "season": "2005-06",
+      "rank": 10,
+      "played": 38,
+      "wins": 15,
+      "draws": 6,
+      "losses": 17,
+      "goals_for": 45,
+      "goals_against": 52,
+      "goal_difference": -7,
+      "points": 51
+    },
+    {
+      "season": "2006-07",
+      "rank": 17,
+      "played": 38,
+      "wins": 10,
+      "draws": 8,
+      "losses": 20,
+      "goals_for": 37,
+      "goals_against": 59,
+      "goal_difference": -22,
+      "points": 38
+    },
+    {
+      "season": "2007-08",
+      "rank": 14,
+      "played": 38,
+      "wins": 10,
+      "draws": 10,
+      "losses": 18,
+      "goals_for": 34,
+      "goals_against": 51,
+      "goal_difference": -17,
+      "points": 40
+    }
+  ],
+  "scope_note": "Only the seasons individually transcribed and included in this archive; not a full career history."
+}

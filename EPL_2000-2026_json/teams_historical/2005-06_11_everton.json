@@ -1,0 +1,22 @@
+{
+  "title": "Everton",
+  "season": "2005-06",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=Everton%202005-06%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "Everton의 2005-06 잉글랜드 프리미어리그 최종 성적은 11위, 38경기 14승 8무 16패, 34득점 49실점, 승점 50점이다.",
+  "season_stats": {
+    "rank": 11,
+    "played": 38,
+    "wins": 14,
+    "draws": 8,
+    "losses": 16,
+    "goals_for": 34,
+    "goals_against": 49,
+    "goal_difference": -15,
+    "points": 50
+  },
+  "collected_at": "2026-10-21"
+}

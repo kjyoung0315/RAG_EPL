@@ -1,0 +1,22 @@
+{
+  "title": "Leeds",
+  "season": "2002-03",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=Leeds%202002-03%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "Leeds의 2002-03 잉글랜드 프리미어리그 최종 성적은 15위, 38경기 14승 5무 19패, 58득점 57실점, 승점 47점이다.",
+  "season_stats": {
+    "rank": 15,
+    "played": 38,
+    "wins": 14,
+    "draws": 5,
+    "losses": 19,
+    "goals_for": 58,
+    "goals_against": 57,
+    "goal_difference": 1,
+    "points": 47
+  },
+  "collected_at": "2026-10-21"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Arsenal",
+  "season": "2000-01",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=Arsenal%202000-01%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "Arsenal의 2000-01 잉글랜드 프리미어리그 최종 성적은 2위, 38경기 20승 10무 8패, 63득점 38실점, 승점 70점이다.",
+  "season_stats": {
+    "rank": 2,
+    "played": 38,
+    "wins": 20,
+    "draws": 10,
+    "losses": 8,
+    "goals_for": 63,
+    "goals_against": 38,
+    "goal_difference": 25,
+    "points": 70
+  },
+  "collected_at": "2026-10-21"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Chelsea",
+  "season": "2007-08",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=Chelsea%202007-08%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "Chelsea의 2007-08 잉글랜드 프리미어리그 최종 성적은 2위, 38경기 25승 10무 3패, 65득점 26실점, 승점 85점이다.",
+  "season_stats": {
+    "rank": 2,
+    "played": 38,
+    "wins": 25,
+    "draws": 10,
+    "losses": 3,
+    "goals_for": 65,
+    "goals_against": 26,
+    "goal_difference": 39,
+    "points": 85
+  },
+  "collected_at": "2026-10-21"
+}

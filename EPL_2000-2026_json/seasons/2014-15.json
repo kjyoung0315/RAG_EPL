@@ -1,0 +1,18 @@
+{
+  "title": "2014-15 Premier League",
+  "season": "2014-15",
+  "start_year": 2014,
+  "end_year": 2015,
+  "competition": "English Premier League",
+  "status": "completed",
+  "champion": "Chelsea",
+  "text": "2014-15 잉글랜드 프리미어리그 시즌. 우승팀: Chelsea.",
+  "source": "Wikipedia season lookup (champion summary from earlier dataset)",
+  "url": "https://en.wikipedia.org/w/index.php?search=2014%E2%80%9315%20Premier%20League",
+  "search_query": "2014–15 Premier League",
+  "collected_at": "2026-10-21",
+  "data_coverage": "champion_only",
+  "historical_full_table_included": false,
+  "historical_roster_included": false,
+  "source_note": "Search URL is not a verified Wikipedia document citation."
+}

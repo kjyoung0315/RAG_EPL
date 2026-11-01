@@ -1,0 +1,25 @@
+{
+  "title": "Sheffield United",
+  "record_type": "team_historical_performance",
+  "source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "source": "EPL historical season records",
+  "seasons_included": [
+    "2006-07"
+  ],
+  "seasons_covered_count": 1,
+  "season_records": [
+    {
+      "season": "2006-07",
+      "rank": 18,
+      "played": 38,
+      "wins": 10,
+      "draws": 8,
+      "losses": 20,
+      "goals_for": 32,
+      "goals_against": 55,
+      "goal_difference": -23,
+      "points": 38
+    }
+  ],
+  "scope_note": "Only the seasons individually transcribed and included in this archive; not a full career history."
+}

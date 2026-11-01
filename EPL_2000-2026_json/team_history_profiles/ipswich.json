@@ -1,0 +1,38 @@
+{
+  "title": "Ipswich",
+  "record_type": "team_historical_performance",
+  "source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "source": "EPL historical season records",
+  "seasons_included": [
+    "2000-01",
+    "2001-02"
+  ],
+  "seasons_covered_count": 2,
+  "season_records": [
+    {
+      "season": "2000-01",
+      "rank": 5,
+      "played": 38,
+      "wins": 20,
+      "draws": 6,
+      "losses": 12,
+      "goals_for": 57,
+      "goals_against": 42,
+      "goal_difference": 15,
+      "points": 66
+    },
+    {
+      "season": "2001-02",
+      "rank": 18,
+      "played": 38,
+      "wins": 9,
+      "draws": 9,
+      "losses": 20,
+      "goals_for": 41,
+      "goals_against": 64,
+      "goal_difference": -23,
+      "points": 36
+    }
+  ],
+  "scope_note": "Only the seasons individually transcribed and included in this archive; not a full career history."
+}

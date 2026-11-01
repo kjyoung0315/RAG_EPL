@@ -1,0 +1,22 @@
+{
+  "title": "Manchester City",
+  "season": "2006-07",
+  "record_type": "team",
+  "league": "Premier League",
+  "url": "https://en.wikipedia.org/w/index.php?search=Manchester%20City%202006-07%20season",
+  "source": "EPL Fixtures Today season records via publicly accessible CSV; Wikipedia seasonal context",
+  "stats_source_url": "https://raw.githubusercontent.com/thomjjames/premier-league-team-records/main/datasets/team_season_records.csv",
+  "text": "Manchester City의 2006-07 잉글랜드 프리미어리그 최종 성적은 14위, 38경기 11승 9무 18패, 29득점 44실점, 승점 42점이다.",
+  "season_stats": {
+    "rank": 14,
+    "played": 38,
+    "wins": 11,
+    "draws": 9,
+    "losses": 18,
+    "goals_for": 29,
+    "goals_against": 44,
+    "goal_difference": -15,
+    "points": 42
+  },
+  "collected_at": "2026-10-21"
+}

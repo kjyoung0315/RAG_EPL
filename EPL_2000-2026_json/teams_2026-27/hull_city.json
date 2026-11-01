@@ -1,0 +1,28 @@
+{
+  "title": "Hull City",
+  "url": "https://en.wikipedia.org/wiki/Hull_City_A.F.C.",
+  "text": "Hull City은(는) 2026–27 잉글랜드 프리미어리그 참가 구단이다. 홈구장은 MKM Stadium이며 소재지는 Kingston upon Hull이다. 감독은 Sergej Jakirović, 주장은 Lewie Coyle이다. 2026년 10월 19일까지 7경기를 치러 2승 3무 2패, 승점 9점, 리그 9위를 기록했다.",
+  "source": "영어 위키백과",
+  "collected_at": "2026-10-21",
+  "record_type": "team",
+  "league": "Premier League",
+  "season": "2026-27",
+  "team_id": "hull_city",
+  "city": "Kingston upon Hull",
+  "stadium": "MKM Stadium",
+  "manager": "Sergej Jakirović",
+  "captain": "Lewie Coyle",
+  "squad_as_of": "2026-09-09",
+  "season_stats_as_of": "2026-10-19",
+  "season_stats": {
+    "rank": 9,
+    "played": 7,
+    "wins": 2,
+    "draws": 3,
+    "losses": 2,
+    "goals_for": 8,
+    "goals_against": 7,
+    "goal_difference": 1,
+    "points": 9
+  }
+}
